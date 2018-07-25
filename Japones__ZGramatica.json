@@ -62,6 +62,7 @@
         "pexels-photo-203088.jpeg", 
         "paste-30017526431745.jpg", 
         "DSC03711.jpg", 
+        "map-reading_2143007b.jpg", 
         "04-DSC06144-001.jpg", 
         "paste-77622943940609.jpg", 
         "paste-30210799960065.jpg", 
@@ -73,6 +74,7 @@
         "paste-21646635171841.jpg", 
         "child-crossing-street.jpg", 
         "mawsynram-india.jpg", 
+        "6510934443_8bd2942b79_b.jpg", 
         "paste-11235634446337.jpg", 
         "blog20170418.jpg", 
         "250px-Otvorena_knjiga.JPG", 
@@ -87,6 +89,7 @@
         "Raingear.jpg", 
         "learn-japanese.jpg", 
         "carelessness1.jpg", 
+        "aid46137-v4-728px-Remember-Your-Past-Lives-Step-2.jpg", 
         "woman-cleans-bathroom-toilet-scrub-260nw-426468376.jpg", 
         "David-De-Gea-1.jpg", 
         "getty_508970750_2000133420009280144_128946.jpg", 
@@ -2157,24 +2160,25 @@
             "fields": [
                 "62", 
                 "<div>~たび(に)</div>", 
-                "Everytime~", 
-                "[動-辞書形；名-の]＋たび", 
+                "When you say that a certain thing happens every time a certain action is taken.", 
+                "[動-辞書形 / 名-の]＋たび", 
                 "その歌を歌うたび、幼い日のことを思い出す。", 
+                "Everytime~", 
+                "", 
+                "繰り返し行われることについて、それをする時はいつも、と言う時に使う。", 
                 "", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"aid46137-v4-728px-Remember-Your-Past-Lives-Step-2.jpg\" />", 
+                "父は出張のたびにお土産を買ってきてくれる。", 
+                "60"
             ], 
             "flags": 0, 
             "guid": "o@HN(TMvah", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N3", 
+                "TRY!N3"
             ]
         }, 
         {
@@ -4247,25 +4251,26 @@
             "data": "", 
             "fields": [
                 "135", 
-                "<div>~ばかりか /　~ばかりではなく</div>", 
-                "Not Only~", 
-                "[動・い形・な形・名]の名詞修飾型＋ばかりか", 
+                "<div>~ばかりか / ~ばかりではなく / ~ばかりでなく</div>", 
+                "Is used to mean \"not just A, but also B\".", 
+                "[名詞修飾型]＋ばかりでなく~も", 
                 "林さんのお宅でごちそうになったばかりか、おみやげまでいただいた。", 
+                "Not Only~", 
                 "", 
-                "", 
-                "", 
+                "「AだけでなくB（も）」という意味で使う。", 
                 "", 
                 "「名-の」does not use「の」&nbsp;", 
                 "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"6510934443_8bd2942b79_b.jpg\" />", 
+                "落語は最近、お年寄りばかりでなく若い女性にも人気が出てきた。", 
+                "59"
             ], 
             "flags": 0, 
             "guid": "rM{dzd[n1d", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N3", 
+                "TRY!N3"
             ]
         }, 
         {
@@ -4354,7 +4359,7 @@
                 "<div>~ば~ほど</div>", 
                 "When you say that the more one thing is done, the more something else will change accordingly", 
                 "<div>[動-ば]＋[動-辞書形]＋ほど</div><div>[い形-ければ]＋[い形-い]＋ほど</div><div>[な形-なら / であらば]＋[な形-な / である]＋ほど</div><div>[名-なら / であらば]＋[名-である]＋ほど</div>", 
-                "練習すればするほど上手になります。", 
+                "練習<b>すればするほど</b>上手になります。", 
                 "The more~the more~(as one goes up, so does the other)", 
                 "", 
                 "1つの事柄の程度に合わせて別の事柄も変わると言う時に使う。", 
@@ -4720,24 +4725,25 @@
             "fields": [
                 "153", 
                 "<div>~もの</div>", 
-                "Because~ (give a reason to an explanation)", 
-                "[普通形]＋にしろ", 
+                "When giving a polite explanation to provide your reason for the current situation.", 
+                "[名詞修飾型 (名-&gt;な) ]＋もので / ものですから", 
                 "「一人で行ける。」「うん、大丈夫、地図を持っているもの。」", 
+                "Because~ (give a reason to an explanation).", 
                 "Used in conversations by women and children. &nbsp;「~もん」is more informal", 
-                "", 
-                "", 
+                "自分側の理由があって、今の状況なのだと丁寧に説明する時に使われる。", 
                 "", 
                 "sometimes conjugated with「です」「ます」", 
                 "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"map-reading_2143007b.jpg\" />", 
+                "慣れないものですから、ご迷惑をおかけするかもしれませんが、どうぞよろしくお願いいたします。", 
+                "65"
             ], 
             "flags": 0, 
             "guid": "s(X6l,DjDH", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N3", 
+                "TRY!N3"
             ]
         }, 
         {
@@ -6086,7 +6092,9 @@
             "flags": 0, 
             "guid": "i`U,6nM0aw", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
-            "tags": []
+            "tags": [
+                "JLPT.N2"
+            ]
         }, 
         {
             "__type__": "Note", 
