@@ -34,7 +34,7 @@
                     7
                 ], 
                 "order": 1, 
-                "perDay": 3, 
+                "perDay": 5, 
                 "separate": true
             }, 
             "replayq": true, 
@@ -55,98 +55,200 @@
     "extendNew": 3, 
     "extendRev": 50, 
     "media_files": [
+        "0206.gif", 
         "kazoku-inhuruenza.jpg", 
         "main (1).jpg", 
-        "colleagues-girl-discussing-joint-project-express-their-opinions-group-office-workers-partnership-gathered-table-89291053.jpg", 
+        "bring-a-souvenir-to-present.jpg", 
         "paste-137842680397825.jpg", 
-        "DSC03711.jpg", 
-        "313BF7E000000578-3447870-Those_who_skip_breakfast_makes_people_feel_less_energetic_so_the-a-59_1455541937170.jpg", 
-        "jishin_shirou_illust09.png", 
-        "04-DSC06144-001.jpg", 
-        "220h44bedc860b4d20966bc364724ff14024.jpg", 
-        "I&#39;m%20Not%20Like%20Other%20Girls.jpg", 
-        "72ddf405-a46c-4b42-bcb6-b844b3798cb6.jpg", 
-        "hqdefault (1).jpg", 
+        "misunderstanding-1.jpg", 
+        "paste-12768937771009.jpg", 
+        "paste-18674517803009.jpg", 
+        "housework.jpg", 
+        "lightning.jpg", 
         "article-2218748-1588EC9D000005DC-484_634x416.jpg", 
-        "breakfast.jpg", 
-        "paste-21646635171841.jpg", 
+        "1stkaigi1.jpg", 
         "178D6928.JPG", 
-        "Santa-Mail.jpg", 
         "blog20170418.jpg", 
         "250px-Otvorena_knjiga.JPG", 
-        "o-METROCARD-facebook.jpg", 
-        "paste-37151467110401.jpg", 
+        "rsz_gettyimages-182435747.jpg", 
         "paste-25396141621249.jpg", 
-        "hqdefault (2).jpg", 
-        "57558876.jpg", 
-        "Raingear.jpg", 
-        "201212310853203a1.jpg", 
+        "Illness-Disease.jpg", 
+        "ford_2035210c.jpg", 
+        "図1.jpg", 
+        "humans-clipart-sick-15.jpg", 
+        "45ecc1eb7862661abf1eecd4b202cc4f_s.jpg", 
+        "bpQgCLH.jpg", 
         "21-important-lessons-from-failure.jpg", 
-        "paste-138843407777793.jpg", 
+        "418811132e2875e93c1d693859c360d7.jpg", 
         "David-De-Gea-1.jpg", 
-        "map-reading_2143007b.jpg", 
-        "learn-japanese.jpg", 
-        "watch-2.jpg", 
+        "paste-43361989820417.jpg", 
+        "Job-hunt-confidence-blog.jpg", 
+        "paste-22806276341761.jpg", 
         "shutterstock_367163339.jpg", 
+        "131876-425x282-whyconserveenergy.JPG", 
         "ea2c66983bfeeb390b6c819047a5195405e53328.jpg", 
-        "paste-11909944311809.jpg", 
-        "160909114434-09-spain-train-crash-exlarge-169.jpg", 
+        "184451368.jpg", 
+        "hqdefault (2).jpg", 
         "paste-24962349924353.jpg", 
-        "nightdarkness.jpg", 
-        "child-crossing-street.jpg", 
         "INDIAN_WOMEN_2715677f.jpg", 
+        "BK-453213370X_3L.jpg", 
+        "paste-10436770529281.jpg", 
         "600guitarists.jpg", 
-        "mvn51103-1.jpg", 
-        "man-little-boy-shaving-foam-260nw-788255794.jpg", 
-        "paste-32207959752705.jpg", 
-        "6098-1.jpg", 
-        "main.jpg", 
-        "08_reply_to_address_in_message.png", 
+        "20180908-035557203.jpg", 
+        "10678404-large.jpg", 
+        "mlJxdgw.jpg", 
+        "20170905153911student-studyabroad-2_thumb.jpg", 
+        "nutritionist-500x366-300x220.jpg", 
+        "paste-13773960118273.jpg", 
+        "paste-21294447853569.jpg", 
+        "paste-24464133718017.jpg", 
+        "lost-credit-card-wallet1.jpg", 
+        "Reckless-Spending-e1480501169757.jpg", 
         "angry-boy.jpg", 
         "paste-70334384439297.jpg", 
-        "pexels-photo-203088.jpeg", 
-        "sinki_Omote.jpg", 
-        "shopping-addictioni-604cs040813.jpg", 
+        "does-chocolate-give-pimples.jpg", 
+        "paste-38633230827521.jpg", 
+        "paste-19520626360321.jpg", 
         "paste-30017526431745.jpg", 
+        "shopping-addictioni-604cs040813.jpg", 
         "paste-77622943940609.jpg", 
+        "Screen-Shot-2013-11-05-at-1.31.59-PM.png", 
         "paste-30210799960065.jpg", 
-        "paste-23648089931777.jpg", 
-        "b4d462.jpg", 
-        "paste-26650272071681.jpg", 
-        "mawsynram-india.jpg", 
+        "paste-32207959752705.jpg", 
+        "0e5afb88f406f70920cdedbf4a803782.jpg", 
+        "aid18166-v4-728px-Apologize-Step-19-Version-2.jpg", 
+        "view_1369409911.jpg", 
         "6510934443_8bd2942b79_b.jpg", 
         "paste-11235634446337.jpg", 
         "veloce100ct_1.jpg", 
-        "toba2.gif", 
+        "10-things-great-leaders-never-say-to-their-employees-640x302.png", 
+        "paste-27453430956033.jpg", 
         "paste-118545392336897.jpg", 
-        "bpQgCLH.jpg", 
-        "news-YourStory.jpg", 
+        "paste-27925877358593.jpg", 
+        "my_wso_story_img_boys064b.jpg", 
         "Abu_Dhabi_Tennis_Math.jpg", 
-        "paste-19378892439553.jpg", 
+        "08_reply_to_address_in_message.png", 
         "carelessness1.jpg", 
+        "paste-24459838750721.jpg", 
+        "getty_508970750_2000133420009280144_128946.jpg", 
+        "paste-12073153069057.jpg", 
+        "730aca369b236619be67b7115be5a576e0006663.jpg", 
+        "2013012100020_1.jpg", 
+        "storm-damage-pic-home-page-box-300x201.jpg", 
+        "homepic.jpg", 
+        "e4901777261440.jpg", 
+        "paste-13816909791233.jpg", 
+        "BMTFp5jCYAACae0.jpg", 
+        "CHINAFASHION032409.jpg", 
+        "making_sake.jpg", 
+        "paste-20276540604417.jpg", 
+        "paste-35755602739201.jpg", 
+        "stock-footage-sad-young-girl-looking-out-the-window-on-a-rainy-day.jpg", 
+        "10d318fc54ea34a091477d5f55693620.png", 
+        "sinki_Omote.jpg", 
+        "walk-down-malacca-river.jpg", 
+        "paste-15530601742337.jpg", 
+        "paste-9998683865089.jpg", 
+        "315DC85D00000578-3454380-image-a-111_1455883339863.jpg", 
+        "YesYouCanChangeYourPersonality-800x588.jpg", 
+        "jishin_shirou_illust09.png", 
+        "colleagues-girl-discussing-joint-project-express-their-opinions-group-office-workers-partnership-gathered-table-89291053.jpg", 
+        "DSC03711.jpg", 
+        "313BF7E000000578-3447870-Those_who_skip_breakfast_makes_people_feel_less_energetic_so_the-a-59_1455541937170.jpg", 
+        "10593121.jpg", 
+        "16b7618f03db2d3f60692b4e06722d36.jpg", 
+        "220h44bedc860b4d20966bc364724ff14024.jpg", 
+        "1527761151.jpg", 
+        "pix.jpg", 
+        "hqdefault (1).jpg", 
+        "ts_ronbun-eyecatch.jpg", 
+        "breakfast.jpg", 
+        "123141-004-9B7F5072.jpg", 
+        "paste-21646635171841.jpg", 
+        "20140801_003.jpg", 
+        "Santa-Mail.jpg", 
+        "paste-37911676321793.jpg", 
+        "o-METROCARD-facebook.jpg", 
+        "paste-37151467110401.jpg", 
+        "7f3841fbe9c77651b699a688af8f5784.jpg", 
+        "57558876.jpg", 
+        "sad-rich-man.jpg", 
+        "carousel.jpg", 
+        "201212310853203a1.jpg", 
+        "children-playing-tag.jpg", 
+        "paste-138843407777793.jpg", 
+        "paste-20263655702529.jpg", 
+        "watch-2.jpg", 
+        "paste-11909944311809.jpg", 
+        "Fitting-room-etiquette.jpg", 
+        "160909114434-09-spain-train-crash-exlarge-169.jpg", 
+        "29degrees.jpg", 
+        "nightdarkness.jpg", 
+        "child-crossing-street.jpg", 
+        "mvn51103-1.jpg", 
+        "paste-19301583028225.jpg", 
+        "Raingear.jpg", 
+        "paste-13052405612545.jpg", 
+        "beni-1.jpg", 
+        "man-little-boy-shaving-foam-260nw-788255794.jpg", 
+        "main.jpg", 
+        "paste-19378892439553.jpg", 
+        "paste-20173461389313.jpg", 
+        "learn-japanese.jpg", 
+        "Winning-the-Lottery.jpg", 
+        "enhanced-buzz-32397-1370986531-1.jpg", 
+        "iStock-636831102.jpg", 
+        "pexels-photo-203088.jpeg", 
+        "karaoke2-1446926502-600x360.jpg", 
+        "paste-35158602285057.jpg", 
+        "map-reading_2143007b.jpg", 
+        "238px-Tokyo_Tower_and_around_Skyscrapers.jpg", 
+        "20110822000301.jpg", 
+        "h02_photo-main.jpg", 
+        "2-dozen-roses-brought.jpg", 
+        "paste-23648089931777.jpg", 
+        "restaurant-frustration2-bad-service-390x220.jpg", 
+        "keep-quiet.jpg", 
+        "paste-26650272071681.jpg", 
+        "mawsynram-india.jpg", 
+        "paste-10750303141889.jpg", 
+        "72ddf405-a46c-4b42-bcb6-b844b3798cb6.jpg", 
+        "toba2.gif", 
+        "8 (1).jpg", 
+        "plane-snow-684987.jpg", 
+        "Volcano-eruption-817605.jpg", 
+        "b4d462.jpg", 
+        "paste-56487409876993.jpg", 
+        "paste-14663018348545.jpg", 
+        "nasa-space-station.jpg", 
         "03427BB194ED9559FCF95B6140FE9050141DE4F0C83806CB25pimgpsh_fullsize_distr-750x300.jpg", 
         "aid46137-v4-728px-Remember-Your-Past-Lives-Step-2.jpg", 
         "woman-cleans-bathroom-toilet-scrub-260nw-426468376.jpg", 
-        "getty_508970750_2000133420009280144_128946.jpg", 
-        "storm-damage-pic-home-page-box-300x201.jpg", 
+        "paste-32706175959041.jpg", 
+        "married-588592153df78c2ccdf11fde.jpg", 
+        "paste-23038204575745.jpg", 
+        "kid-in-hot-car.jpg", 
         "440985-300x244.jpg", 
         "serious-man-thinking_1149-1328.jpg", 
-        "kid-in-hot-car.jpg", 
-        "paste-19301583028225.jpg", 
+        "6098-1.jpg", 
+        "I&#39;m%20Not%20Like%20Other%20Girls.jpg", 
+        "img_intro02.jpg", 
         "crying-baby-kids-harbor.jpg", 
         "rain-room-at-moma-10-1-680x365.jpg", 
         "think-1034159_960_720.jpg", 
+        "CStore_Web.jpg", 
         "3bc5d84174ccaba22a75d7dec7c0c01c_t.jpeg", 
-        "sad-rich-man.jpg", 
+        "paste-10857677324289.jpg", 
         "Slow-cooked-spicy-chicken-square.jpg", 
-        "paste-35755602739201.jpg", 
-        "stock-footage-sad-young-girl-looking-out-the-window-on-a-rainy-day.jpg", 
-        "Winning-the-Lottery.jpg", 
+        "Government-oppression-sign-Cropped-620x400.png", 
+        "bad-economy.jpg", 
+        "IMG_20181006_011240.jpg", 
         "aid5254611-v4-728px-Stop-Thinking-About-Someone-Step-13.jpg", 
         "cod.jpg", 
         "paste-145337398329345.jpg", 
         "new-10-things-to-do-by-yourself-2.jpeg", 
-        "Japan-Off-Grid-Cabin01.jpg"
+        "Japan-Off-Grid-Cabin01.jpg", 
+        "news-YourStory.jpg"
     ], 
     "mid": 1342706442509, 
     "name": "Japones::ZGramatica", 
@@ -154,7 +256,7 @@
         {
             "__type__": "NoteModel", 
             "crowdanki_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
-            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\nnokana ruby rt { opacity:0.0; font-size:0}\nnotext b { background-color:#000000; color:transparent }\n\n.table td,\n.table th\n{\n    text-align:left;\n}\n\n#right,\n.table td + td,\n.table th + th\n{\n    text-align:center;\n}\n\ntable, th, td {\n   border: 1px solid black;\n}", 
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n\nnokana ruby rt { opacity:0.0; font-size:0}\nnotext b { background-color:#000000; color:transparent }\n\n.table td,\n.table th\n{\n    text-align:right;\n}\n\ntable, th, td {\n   border: 1px solid black;\n}", 
             "flds": [
                 {
                     "font": "Arial", 
@@ -292,8 +394,7 @@
                     "any", 
                     [
                         1, 
-                        4, 
-                        11
+                        4
                     ]
                 ], 
                 [
@@ -301,7 +402,8 @@
                     "any", 
                     [
                         4, 
-                        7
+                        7, 
+                        11
                     ]
                 ]
             ], 
@@ -311,22 +413,22 @@
             ], 
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n<hr id=answer>\n<div style='font-family: Arial; font-size: 28px;'>{{furigana:文法}}</div>\n<div align=\"center\" style='font-family: Arial; font-size: 25px;'> \n<p id=\"Tabla\"></p>\n<script>\n\tvar enters = [];\n\tvar myArray = [];\n\tvar conjug = [];\n\tvar myTable;\n\tenters = \"[普通形]＋からには・というからには\t\".replace(/<\\/div>/g,\"\").split(\"<div>\");\n\tfor (var k = 0; k < enters.length; k++) { \n\t\tmyTable = \"<table>\";\n\t\tmyArray = enters[k].replace(/\\[/g,\"\").replace(/\\]/g,\"\").replace(/\\・/g,\"<br>\").split(\"＋\");\n\t\tconjug = myArray[0].split(\" / \");\n\t\tfor (var i = 0; i < conjug.length; i++) {\n\t\t\tmyTable+=\"<tr><td>\" + conjug[i] + \"</td>\";\n\t\t\tif(i == 0){\n\t\t\t\tfor (var j = 1; j < myArray.length; j++) {\n\t\t\t\t\tmyTable+= \"<td rowspan=\\\"\" + conjug.length + \"\\\"> ＋ </td><td rowspan=\\\"\" + conjug.length + \"\\\">\" + myArray[j] + \"</td>\";\n\t\t\t\t}\t\n\t\t\t} \n\t\t\tmyTable+=\"</tr>\";\n\t\t}\n\t\tmyTable+=\"</table>\";\n\t\tdocument.getElementById(\"Tabla\").innerHTML = myTable;\n\t}\n</script>\n</div>\n<div style='font-family: Arial; font-size: 20px;'>\n{{#接続メモ}}<b>接続メモ:  </b>{{接続メモ}}<br>{{/接続メモ}}<br>\n<b>意味:  </b>{{意味}}<br>\n<b>意味（英語）:  </b>{{意味（英語）}}<br>\n<b>例文:  </b>{{例文}}<br><br>\n\n{{#参考}}<br><b>参考:  </b>{{参考}}<br>{{/参考}}\n{{#注意}}<br><b>注意:  </b>{{注意}}<br>{{/注意}}\n{{#類語}}<br><b>類語:  </b>{{類語}}{{/類語}}\n{{#慣用}}<br><b>慣用:  </b>{{慣用}}{{/慣用}}\n{{#他の例文}}<br><b>他の例文:  </b>{{他の例文}}{{/他の例文}}\n{{#TRY!_Index}}<br><b>TRY! Index:  </b>{{TRY!_Index}}{{/TRY!_Index}}\n", 
+                    "afmt": "{{FrontSide}}\n<hr id=answer>\n<div style='font-family: Arial; font-size: 32px;'>{{furigana:文法}}</div>\n<div align=\"center\" style='font-family: Arial; font-size: 25px;' id=\"Tabla\"> \n</div>\n<script>\n\tvar enters = [];\n\tvar myArray = [];\n\tvar conjug = [];\n\tvar myTable = \"\";\n\tenters = \"{{接続}}\".replace(/<\\/div>/g,\"\").split(\"<div>\");\n\tfor (var k = 0; k < enters.length; k++) { \n\t\tmyTable += \"<table>\";\n\t\tmyArray = enters[k].replace(/\\[/g,\"\").replace(/\\]/g,\"\").replace(/\\・/g,\"<br>\").split(\"＋\");\n\t\tconjug = myArray[0].split(\" / \");\n\t\tfor (var i = 0; i < conjug.length; i++) {\n\t\t\tmyTable+=\"<tr><td align=\\\"right\\\">\" + conjug[i] + \"</td>\";\n\t\t\tif(i == 0){\n\t\t\t\tfor (var j = 1; j < myArray.length; j++) {\n\t\t\t\t\tmyTable+= \"<td rowspan=\\\"\" + conjug.length + \"\\\"> ＋ </td><td rowspan=\\\"\" + conjug.length + \"\\\">\" + myArray[j] + \"</td>\";\n\t\t\t\t}\t\n\t\t\t} \n\t\t\tmyTable+=\"</tr>\";\n\t\t}\n\t\tmyTable+=\"</table>\";\n\t}\ndocument.getElementById(\"Tabla\").innerHTML = myTable;\n</script>\n<div style='font-family: Arial; font-size: 20px;'>\n{{#接続メモ}}<b>接続メモ:  </b>{{接続メモ}}<br>{{/接続メモ}}<br>\n<b>意味:  </b>{{意味}}<br>\n<b>意味（英語）:  </b>{{意味（英語）}}<br>\n<b>例文:  </b>{{例文}}<br>\n{{絵}}<br>\n\n{{#参考}}<br><b>参考:  </b>{{参考}}<br>{{/参考}}\n{{#注意}}<br><b>注意:  </b>{{注意}}<br>{{/注意}}\n{{#類語}}<br><b>類語:  </b>{{類語}}{{/類語}}\n{{#慣用}}<br><b>慣用:  </b>{{慣用}}{{/慣用}}\n{{#他の例文}}<br><b>他の例文:  </b>{{他の例文}}{{/他の例文}}\n{{#TRY!_Index}}<br><b>TRY! Index:  </b>{{TRY!_Index}}{{/TRY!_Index}}\n", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
                     "name": "文法", 
                     "ord": 0, 
-                    "qfmt": "<div style='font-family: Arial; font-size: 35px;'>{{kanji:文法}}</div>\n<span style=\"font-size: 15px; color: #5555ff\">文法</span><br><br>\n<div style='font-family: Arial; font-size: 32px;'>{{例文}}</div><br>\n{{絵}}<br>\n"
+                    "qfmt": "<div style='font-family: Arial; font-size: 32px;'>{{kanji:文法}}</div>\n<span style=\"font-size: 15px; color: #5555ff\">文法</span><br><br>\n<div style='font-family: Arial; font-size: 28px;'>{{例文}}</div><br>\n\n<br><br><br><br><br><br><br><br><br>\n"
                 }, 
                 {
-                    "afmt": "{{FrontSide}}\n<hr id=answer>\n<div style='font-family: Arial; font-size: 28px;'>{{furigana:文法}}</div>\n<div align=\"center\" style='font-family: Arial; font-size: 25px;'> \n<p id=\"Tabla\"></p>\n<script>\n\tvar enters = [];\n\tvar myArray = [];\n\tvar conjug = [];\n\tvar myTable;\n\tenters = \"[普通形]＋からには・というからには\t\".replace(/<\\/div>/g,\"\").split(\"<div>\");\n\tfor (var k = 0; k < enters.length; k++) { \n\t\tmyTable = \"<table>\";\n\t\tmyArray = enters[k].replace(/\\[/g,\"\").replace(/\\]/g,\"\").replace(/\\・/g,\"<br>\").split(\"＋\");\n\t\tconjug = myArray[0].split(\" / \");\n\t\tfor (var i = 0; i < conjug.length; i++) {\n\t\t\tmyTable+=\"<tr><td>\" + conjug[i] + \"</td>\";\n\t\t\tif(i == 0){\n\t\t\t\tfor (var j = 1; j < myArray.length; j++) {\n\t\t\t\t\tmyTable+= \"<td rowspan=\\\"\" + conjug.length + \"\\\"> ＋ </td><td rowspan=\\\"\" + conjug.length + \"\\\">\" + myArray[j] + \"</td>\";\n\t\t\t\t}\t\n\t\t\t} \n\t\t\tmyTable+=\"</tr>\";\n\t\t}\n\t\tmyTable+=\"</table>\";\n\t\tdocument.getElementById(\"Tabla\").innerHTML = myTable;\n\t}\n</script>\n</div>\n<div style='font-family: Arial; font-size: 20px;'>\n{{#接続メモ}}<b>接続メモ:  </b>{{接続メモ}}<br>{{/接続メモ}}<br>\n<b>意味:  </b>{{意味}}<br>\n<b>意味（英語）:  </b>{{意味（英語）}}<br>\n<b>例文:  </b>{{例文}}<br><br>\n{{絵}}<br>\n\n{{#参考}}<br><b>参考:  </b>{{参考}}<br>{{/参考}}\n{{#注意}}<br><b>注意:  </b>{{注意}}<br>{{/注意}}\n{{#類語}}<br><b>類語:  </b>{{類語}}{{/類語}}\n{{#慣用}}<br><b>慣用:  </b>{{慣用}}{{/慣用}}\n{{#他の例文}}<br><b>他の例文:  </b>{{他の例文}}{{/他の例文}}\n{{#TRY!_Index}}<br><b>TRY! Index:  </b>{{TRY!_Index}}{{/TRY!_Index}}\n", 
+                    "afmt": "{{FrontSide}}\n<hr id=answer>\n<div style='font-family: Arial; font-size: 28px;'>{{furigana:文法}}</div>\n<div align=\"center\" style='font-family: Arial; font-size: 25px;' id=\"Tabla\"></div>\n<script>\n\tvar enters = [];\n\tvar myArray = [];\n\tvar conjug = [];\n\tvar myTable = \"\";\n\tenters = \"{{接続}}\".replace(/<\\/div>/g,\"\").split(\"<div>\");\n\tfor (var k = 0; k < enters.length; k++) { \n\t\tmyTable += \"<table>\";\n\t\tmyArray = enters[k].replace(/\\[/g,\"\").replace(/\\]/g,\"\").replace(/\\・/g,\"<br>\").split(\"＋\");\n\t\tconjug = myArray[0].split(\" / \");\n\t\tfor (var i = 0; i < conjug.length; i++) {\n\t\t\tmyTable+=\"<tr><td align=\\\"right\\\">\" + conjug[i] + \"</td>\";\n\t\t\tif(i == 0){\n\t\t\t\tfor (var j = 1; j < myArray.length; j++) {\n\t\t\t\t\tmyTable+= \"<td rowspan=\\\"\" + conjug.length + \"\\\"> ＋ </td><td rowspan=\\\"\" + conjug.length + \"\\\">\" + myArray[j] + \"</td>\";\n\t\t\t\t}\t\n\t\t\t} \n\t\t\tmyTable+=\"</tr>\";\n\t\t}\n\t\tmyTable+=\"</table>\";\n\t}\ndocument.getElementById(\"Tabla\").innerHTML = myTable;\n</script>\n<div style='font-family: Arial; font-size: 20px;'>\n{{#接続メモ}}<b>接続メモ:  </b>{{接続メモ}}<br>{{/接続メモ}}<br>\n<b>意味:  </b>{{意味}}<br>\n<b>意味（英語）:  </b>{{意味（英語）}}<br>\n<b>例文:  </b>{{例文}}<br>\n\n{{#参考}}<br><b>参考:  </b>{{参考}}<br>{{/参考}}\n{{#注意}}<br><b>注意:  </b>{{注意}}<br>{{/注意}}\n{{#類語}}<br><b>類語:  </b>{{類語}}{{/類語}}\n{{#慣用}}<br><b>慣用:  </b>{{慣用}}{{/慣用}}\n{{#他の例文}}<br><b>他の例文:  </b>{{他の例文}}{{/他の例文}}\n{{#TRY!_Index}}<br><b>TRY! Index:  </b>{{TRY!_Index}}{{/TRY!_Index}}\n", 
                     "bafmt": "", 
                     "bqfmt": "", 
                     "did": null, 
                     "name": "意味", 
                     "ord": 1, 
-                    "qfmt": "<div style='font-family: Arial; font-size: 32px;'>{{意味}}</div>\n<span style=\"font-size: 15px; color: #5555ff\">文法</span><br><br>\n<notext><nokana>\n<div style='font-family: Arial; font-size: 32px;'>{{furigana:例文}}</div>\n</notext></nokana>\n<br><br><br><br><br><br><br><br><br>"
+                    "qfmt": "<div style='font-family: Arial; font-size: 28px;'>{{意味}}</div>\n<span style=\"font-size: 15px; color: #5555ff\">文法</span><br>\n{{絵}}<br>\n<notext><nokana>\n<div style='font-family: Arial; font-size: 28px;'>{{furigana:例文}}</div>\n</notext></nokana>"
                 }
             ], 
             "type": 0, 
@@ -339,25 +441,26 @@
             "data": "", 
             "fields": [
                 "1", 
-                "~あげく(に）", 
+                "~あげく(に)", 
+                "Use this when you want to say how something turned out after a tough experience that took a lot of time or involved various efforts. It is often used to say that the result is not good.", 
+                "[動-た形・名-の]＋あげく(に)", 
+                "さっきにお客さん、あれこれ試着した<b>あげくに</b>、何も買わずに帰っちゃって・・・。", 
+                "", 
+                "", 
+                "長い時間がかかったり、いろいろしたりして大変だった後で、どうなったかという結果を言いたい時に使う。よくない結果になったことを言うことが多い。", 
+                "", 
+                "", 
                 "In the end; finally; on top of all that; to make matters worse.", 
-                "[動-た形・名-の]＋あげく", 
+                "<img src=\"Fitting-room-etiquette.jpg\" />", 
                 "さんさん迷った<b>あげく</b>、大学院には行かないことにした。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "<img src=\"04-DSC06144-001.jpg\" />", 
-                "", 
-                ""
+                "45"
             ], 
             "flags": 0, 
             "guid": "rB;:KMyy(z", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -396,9 +499,9 @@
                 "When you want to say, with strong emotion, something like \"it's natural because ~ is decided / a fact; something should be done; you intend to do something; when you order someone to do something.\"", 
                 "[普通形]＋以上", 
                 "日本に住んでいる<b>以上</b>、日本の法律を守らなければならない。", 
-                "「~からには」", 
+                "~からには、~上は", 
                 "often followed by obligations, prohibitions, demands, presumptions, and strong conclusions such as [なければならない /　てはいけない　/ てください　 / だろう]", 
-                "「～からには」と同じ意味がある。", 
+                "「～からには」と同じ意味がある。2", 
                 "", 
                 "[な形 / 名] use [である]", 
                 "Since", 
@@ -420,24 +523,25 @@
             "fields": [
                 "4", 
                 "~ 一方[いっぽう] / ~ 一方[いっぽう]では", 
-                "While; Meanwhile　(shows a comparison between two things)", 
-                "[名詞修飾型]＋一方", 
-                "私の仕事は夏は非常に忙しい<b>一方</b>、冬は暇になる。", 
+                "Use this when you explain that one thing can be in very different situations, as in \"行列ができる店がある一方、まったく客が入らない店もある\".", 
+                "[名詞修飾型]＋一方<div>[な形 / 名]＋である＋一方</div>", 
+                "仕事を求めて都会に出る若者がいる<b>一方</b>、故郷に戻って就職する若者もいる。", 
                 "", 
                 "", 
-                "", 
+                "一つのことに関して、大きく違う状況があることを説明する時に使う。", 
                 "", 
                 "[な形 / 名]場合は [である]も使われる。", 
-                "", 
-                "", 
-                "", 
-                ""
+                "While; Meanwhile (shows a comparison between two things)", 
+                "<img src=\"Job-hunt-confidence-blog.jpg\" />", 
+                "私の仕事は夏は非常に忙しい<b>一方</b>、冬は暇になる。", 
+                "61"
             ], 
             "flags": 0, 
             "guid": "fQHMr([*Dq", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -445,25 +549,26 @@
             "data": "", 
             "fields": [
                 "5", 
-                "~一方だ", 
-                "(no specific meaning) shows something continuing towards a certain tendency.　ex. more and more; less and less; keep on~; never stop~", 
+                "~ 一方[いっぽう]だ", 
+                "Use it when you want to say that \"situation ~ is going to continue\" as in \"景気が悪くなる一方だ\".", 
                 "[動-辞書形]＋一方だ", 
-                "最近、パソコン通信の利用者は増える<b>一方だ。</b>", 
-                "", 
+                "ここは静かな町だったのに、テレビで紹介されて以来、観光的が増える<b>一方だ。</b>", 
+                "～ばかり", 
                 "Uses verbs that show / express a change", 
+                "「～の状態がどんどん進んでいく」と言いたい時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "(no specific meaning) shows something continuing towards a certain tendency.　ex. more and more; less and less; keep on~; never stop~", 
+                "<img src=\"20180908-035557203.jpg\" />", 
+                "最近、パソコン通信の利用者は増える<b>一方だ。</b>", 
+                "115"
             ], 
             "flags": 0, 
             "guid": "K~wO7:/19Q", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -498,24 +603,25 @@
             "fields": [
                 "7.1", 
                 "~上で(は) / ~上での / ~上でも / ~上の", 
+                "Has the same meaning as \"～してから\" but don't use it to talk about a familiar topic.", 
+                "[動-た形 / 名-の]＋上で<div>[動-た形 / 名-の]＋上(で)の＋[名]</div>", 
+                "駅前の再開発については、住民の皆さんの意見をまとめた<b>上で</b>、市に要望書を提出したいと思います。", 
+                "", 
+                "", 
+                "「～してから」と同じ意味で使う。ただし、日常的な話題には使わない。", 
+                "", 
+                "", 
                 "After...ing ; Upon…ing", 
-                "[動-た形・名-の]＋上で", 
+                "<img src=\"paste-22806276341761.jpg\" />", 
                 "みんなの意見を聞いた<b>上で</b>決めました。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "117"
             ], 
             "flags": 0, 
             "guid": "hi3n;4AM%}", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -550,24 +656,25 @@
             "fields": [
                 "8", 
                 "~上は", 
+                "When you want to say, with strong emotion, something like \"it's natural because ~ is decided / a fact; something should be done; you intend to do something; when you order someone to do something.\"", 
+                "[動-辞書形・た形]＋上は", 
+                "約束を結ぶ<b>上は</b>、条件を慎重に検討すべきである。", 
+                "~ 以上、~からには", 
+                "", 
+                "「～からには」と同じ意味がある。1", 
+                "", 
+                "", 
                 "Now that~; Since~", 
-                "[動-辞書形 / た形]＋上は", 
-                "約束を結ぶ上は、条件を慎重に検討すべきである。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"730aca369b236619be67b7115be5a576e0006663.jpg\" />", 
+                "税金を使って研究を行う上は、社会に役立つ研究をしなければならない。", 
+                "18"
             ], 
             "flags": 0, 
             "guid": "F(igq=*fjz", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -628,25 +735,26 @@
             "data": "", 
             "fields": [
                 "11", 
-                "~得る", 
-                "Be possible to~", 
+                "~ 得[え]る;&nbsp;~ 得[う]る", 
+                "When you say \"there is a possibility that I can ~\". This is often used in essays and the like.", 
                 "[動-ます形]＋得る", 
+                "凶器がどこにあるか、考え<b>得る</b>場所はすべて捜したが全く手がかりがつかめなかった。", 
+                "", 
+                "", 
+                "「～ができる・可能性がある」と言う時に使う。論文などでよく使う。", 
+                "", 
+                "", 
+                "Be possible to~", 
+                "<img src=\"315DC85D00000578-3454380-image-a-111_1455883339863.jpg\" />", 
                 "考え得るかぎりの手は尽くしたが、問題の解決には至らなかった", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "66"
             ], 
             "flags": 0, 
             "guid": "mpM:Cj8`AY", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -655,24 +763,25 @@
             "fields": [
                 "12", 
                 "~得ない", 
-                "Be impossible to~", 
+                "Use it to say \"I can't ~; there's no possibility\". This is often used in essays and the like.", 
                 "[動-ます形]＋得ない", 
+                "普通の人が宇宙へ行ける日が来るなんて、100年前には想像し<b>得なかった</b>ことだ。", 
+                "", 
+                "", 
+                "「～できない・可能性がない」と言う時に使う。論文などでよく使う。", 
+                "", 
+                "", 
+                "Be impossible to~", 
+                "<img src=\"nasa-space-station.jpg\" />", 
                 "こんな低い山で遭難することはあり得ないと思う。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "66"
             ], 
             "flags": 0, 
             "guid": "y6mXAv{h)P", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -687,7 +796,7 @@
                 "", 
                 "", 
                 "「～」が原因でいい結果になって、感謝や「よかった」という気持ちを言う時に使う", 
-                "<div>おかげさまで：　Thanks to you or some higher power</div>", 
+                "おかげさまで: Thanks to you or some higher power", 
                 "", 
                 "", 
                 "<img src=\"paste-70334384439297.jpg\" />", 
@@ -708,24 +817,25 @@
             "fields": [
                 "14", 
                 "~おそれがある", 
+                "When you say that there is a high lokehood that -based on objective data or the like- the situation will become dangerous or otherwise undesirable. It is often used in news shows, newspapers, reports and the like.", 
+                "[動-辞書形・ない形-ない / 名-の]＋おそれがある", 
+                "噴火の<b>恐れがあります</b>ので、避難してください。", 
+                "", 
+                "", 
+                "客観的なデータなどを基にして、危険な状態になる可能性が高いことを伝える時に使う。ニュースや新聞、報告書などに使われることが多い。", 
+                "", 
+                "", 
                 "Be in danger of~", 
-                "[動-辞書形・名-の]＋おそれがある", 
+                "<img src=\"Volcano-eruption-817605.jpg\" />", 
                 "早く手術しないと、手遅れになるおそれがある。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "34"
             ], 
             "flags": 0, 
             "guid": "J(Ke2GQljh", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -865,24 +975,25 @@
             "fields": [
                 "17", 
                 "~がたい", 
-                "Can’t do~ ; Difficult to~", 
+                "It means \"doing ~ is difficult; probably can't do ~\".", 
                 "[動-ます形]＋がたい", 
+                "この条件では、鈴木商事からの合併の申し出は受け入れ<b>がたい。</b>", 
+                "", 
+                "", 
+                "「～するのは難しい、なかなか～することができない」という意味で使う。", 
+                "", 
+                "「信じる・理解する・納得する・認める・得る・許す・忘れる」などの言葉と一緒に使われる。", 
+                "Can’t do~ ; Difficult to~", 
+                "<img src=\"paste-24464133718017.jpg\" />", 
                 "彼女がそんなことをするとは、信じがたい。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "126"
             ], 
             "flags": 0, 
             "guid": "P0Wk~!@z^Y", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -891,24 +1002,25 @@
             "fields": [
                 "18", 
                 "~がちだ / ~がちの", 
-                "Tend to~", 
-                "[動-ます形・名]＋がちだ", 
-                "雪が降ると、電車が遅れがちだ。", 
+                "When you want to say that someone \"often does / is ~\" as in \"忘れがち・病気がち\". There is also an ideomatic usage to express a state or appereance.", 
+                "[動-ます形 / 名]＋がち", 
+                "日本人は自分の意思をはっきり言わないので誤解され<b>がち</b>だ。", 
                 "", 
                 "Used mostly with a negative meaning", 
+                "「～になることが多い」と言いたいときに使う。状態、様子を表す慣用的な言い方もある。", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "「休む・思う・考える・心配する・留守」などの言葉と一緒に使われる。", 
+                "Tend to~", 
+                "<img src=\"misunderstanding-1.jpg\" />", 
+                "雪が降ると、電車が遅れがちだ。", 
+                "111"
             ], 
             "flags": 0, 
             "guid": "F1OV}YZ{J^", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -916,25 +1028,26 @@
             "data": "", 
             "fields": [
                 "19", 
-                "~(か)と思うと / ~(か)と思ったら", 
+                "~かと思うと / ~かと思ったら", 
+                "Use this when you emphasize that a situation has suddenly changed. Do not use it to explain about yourself.", 
+                "[動-た形]＋かと思うと・かと思ったら", 
+                "青空を飛んでいた鳥は突然海に潜った<b>かと思うと</b>、魚を口にくわえて出てきた。", 
+                "", 
+                "", 
+                "状況が急に変わったことを強調して説明するときに使う。自分のことを説明するときには使わない。", 
+                "", 
+                "", 
                 "As soon as~", 
-                "[動-た形]＋(か)と思うと", 
+                "<img src=\"8 (1).jpg\" />", 
                 "リ-さんは「さようなら」と言ったかと思うと教室を飛び出していった。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "99"
             ], 
             "flags": 0, 
             "guid": "x6Yfo2{qP!", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -943,24 +1056,25 @@
             "fields": [
                 "20", 
                 "~か~ないかのうちに", 
-                "No sooner than~", 
+                "When you want to say \"during the short time in which the action ~ is not completly finished\".", 
                 "[動-辞書形 / た形]＋か＋[動-ない形]＋ないかのうちに", 
+                "早食い選手権を見ていたら、選手たちは食べ物を口に入れた<b>か</b>入れ<b>ないかのうちに</b>、次の料理に手を伸ばしていた。", 
+                "", 
+                "", 
+                "「～の動作が完全に完了しないくらい短い時間の間に」と言いたい時に使う。", 
+                "", 
+                "同じ動詞を使う。", 
+                "No sooner than~", 
+                "<img src=\"paste-38633230827521.jpg\" />", 
                 "ヘビ-スモ-カ-の彼は、タバコを一本吸い終わったか終わらないかのうちに、次のタバコに火をつけた。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "96"
             ], 
             "flags": 0, 
             "guid": "BE7Wx%.(b)", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -969,24 +1083,25 @@
             "fields": [
                 "21", 
                 "<div>~かねない</div>", 
-                "Be capable of~ ; Be in danger of~ (Used when there is a chance of something bad happening)", 
+                "When you want to say that \"judging from the current situation, a bad result is expected\". It often includes a judgament based on an objective view.", 
                 "[動-ます形]＋かねない", 
-                "あんなスピ-ドを出したら、事故を起こしかねない。", 
+                "あんなスピードを出したら、事故を起こし<b>かねない</b>。", 
                 "", 
                 "", 
+                "「今の状況から判断すると、悪い結果が予想される」と言いたい時に使う。客観的に見るとという判断が入っていることが多い。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Be capable of~ ; Be in danger of~ (Used when there is a chance of something bad happening)", 
+                "<img src=\"ford_2035210c.jpg\" />", 
+                "今のような経営方法では、2、3年のうちに倒産しかねない。", 
+                "27"
             ], 
             "flags": 0, 
             "guid": "CV{SnSr5gN", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1022,13 +1137,13 @@
                 "23", 
                 "<div>~かのようだ / ~かのような / ~かのように</div>", 
                 "When you say that it seems like something that is not actually true.", 
-                "[普通]＋かのようだ", 
+                "[普通形]＋かのようだ<div>[な形 / 名]＋である＋かのようだ</div>", 
                 "激しい雨と風は、まるで台風が来た<b>かのようだ。</b>", 
                 "", 
                 "", 
                 "実際はそうではないのにそのように感じると言う時に使う。", 
                 "", 
-                "[な形 / 名] use [である]", 
+                "[な形 / 名] can use [である]", 
                 "Like~", 
                 "<img src=\"rain-room-at-moma-10-1-680x365.jpg\" />", 
                 "リンさんの部屋はまるで泥棒が入ったかのように散らかっている。", 
@@ -1040,32 +1155,6 @@
             "tags": [
                 "JLPT.N3", 
                 "TRY!N3"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "24", 
-                "<div>~からいうと / ~からいえば / ~からいって</div>", 
-                "Judging from~ ; When it comes to~; As for~", 
-                "[名]＋からいうと", 
-                "中国は人口からいうと世界一だが、人口密度は日本よりずっと低い。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "C-X$y4oilk", 
-            "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
-            "tags": [
-                "JLPT.N2"
             ]
         }, 
         {
@@ -1100,10 +1189,10 @@
             "fields": [
                 "26", 
                 "<div>~からすると / ~からすれば</div>", 
-                "1.&nbsp;For~<div>2.&nbsp;Judging from~</div>", 
+                "For~", 
                 "[名]＋からすると", 
-                "1.&nbsp;親からすると、子供はいくつになっても子供で、心配なものだ。<div>2.&nbsp;あの車は形からすると１０年ぐらい前のものだと思う。</div>", 
-                "「~から見ると」\\「~からして」のＢの意味。", 
+                "親からすると、子供はいくつになっても子供で、心配なものだ。", 
+                "「~からして」のＢの意味。", 
                 "", 
                 "", 
                 "", 
@@ -1153,24 +1242,25 @@
             "fields": [
                 "28", 
                 "~から~にかけて", 
-                "From~to~", 
+                "When you say that something is within a broad period of time or area between A and B as in \"今週から来週にかけて雨の日が多い\" and \"渋谷から新宿にかけてたくさんの専門学校がある\".", 
                 "[名]＋から＋[名]＋にかけて", 
+                "本日、九州<b>から</b>四国地方<b>にかけて</b>、梅雨入りしました。", 
+                "", 
+                "", 
+                "AからBまでの間という意味で、時間や場所のだいたいの範囲を言う時に使う。", 
+                "", 
+                "", 
+                "From~to~", 
+                "<img src=\"20110822000301.jpg\" />", 
                 "昨夜から今朝にかけて雨が降りました。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "32"
             ], 
             "flags": 0, 
             "guid": "s<jzxDCd$I", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1180,9 +1270,9 @@
                 "29", 
                 "~からには / ~からは&nbsp;", 
                 "When you want to say, with strong emotion, something like \"it's natural because ~ is decided / a fact; something should be done; you intend to do something; when you order someone to do something.\"", 
-                "[普通形]＋からには・というからには", 
+                "[普通形・な形/名+である]＋からには・というからには", 
                 "試合に出る<b>からには</b>、勝ちたい。", 
-                "", 
+                "~ 以上、~上は", 
                 "followed by obligations, resolutions, presumptions, suggestions, and commands", 
                 "「～は決めたこと・事実なのだから当然・・・するべきだ・するつもりだ・しろ」などの強い気持ちを言いたい時に使う。", 
                 "", 
@@ -1206,24 +1296,25 @@
             "fields": [
                 "30", 
                 "~から見て(も) / ~から見ると / ~から見れば", 
-                "From the viewpoint of~", 
-                "<div>[名]＋から見ると</div>", 
-                "子共の教育という点から見ると、豊かすぎる生活は、必ずしもいいとは言えない。", 
-                "「~からいうと」", 
+                "When you state an idea based on a position, perspective or criterion of \"~\" as in \"専門家から見ると\", \"価格の面から見ると\" and \"データから見て\".", 
+                "[名]＋から見ると・から見れば・から見て<div>[名]＋からいうと・からいえば・からいって</div><div>[名]＋からすると・からすれば・からして</div>", 
+                "便利さという点<b>から見ると</b>、やはり田舎より都会のほうが暮らしやすい。", 
+                "「～からいうと」、「～からすると」", 
+                "", 
+                "「～」の立場、視点、判断材料から考えたことを言う時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "From the viewpoint of~;&nbsp;Judging from~ ; When it comes to~; As for~", 
+                "<img src=\"10593121.jpg\" />", 
+                "子共の教育という点から見ると、豊かすぎる生活は、必ずしもいいとは言えない。<div>あの車は形からすると１０年ぐらい前のものだと思う。</div><div>中国は人口からいうと世界一だが、人口密度は日本よりずっと低い。</div>", 
+                "60"
             ], 
             "flags": 0, 
             "guid": "OSW9E#%T)/", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1337,25 +1428,26 @@
             "data": "", 
             "fields": [
                 "33.2", 
-                "<div>~きり(だ)</div>", 
-                "(something continuing the same condition after happening)", 
+                "<div>~きり</div>", 
+                "As in \"友人とは2年前に別れたきり、会っていない\", when you want to say \"things have been the same (we haven't met) since then (after we parted).", 
                 "[動-た形]＋きり", 
-                "寝たきり老人が増えている。", 
+                "彼は「ごはん」と言った<b>きり</b>、黙ってしまった。", 
                 "", 
                 "<div>In spoken language becomes 「~っきり」</div>", 
+                "「～の後はそのままだ」と言いたい時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "(something continuing the same condition after happening)", 
+                "<img src=\"keep-quiet.jpg\" />", 
+                "寝たきり老人が増えている。", 
+                "37"
             ], 
             "flags": 0, 
             "guid": "AJ&TZCp64^", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1470,24 +1562,25 @@
             "fields": [
                 "37", 
                 "<div>~げ</div>", 
-                "Seem~", 
+                "Like \"～そうだ\", it is used when you state an impression from what you see and feel. It is often used together with words that express emotions.", 
                 "[い形-○・な形-○]＋げ", 
-                "彼女は悲しげな様子で話した。", 
+                "プロジェクトメンバーは、誇らし<b>げ</b>な表情で成功したことを報告した。", 
                 "", 
                 "~げ becomes a な形容詞", 
+                "「～そうだ」と同じように、見て感じた印象を言う時に使われる。気持ちを表す言葉と一緒に使われることが多い。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Seem~", 
+                "<img src=\"paste-43361989820417.jpg\" />", 
+                "彼女は悲しげな様子で話した。", 
+                "97"
             ], 
             "flags": 0, 
             "guid": "BvzU[g[:IK", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1522,24 +1615,25 @@
             "fields": [
                 "39", 
                 "<div>~ことか</div>", 
+                "Use this when you say with emotion what you have done or felt up to now. It is often said to oneself together with words such as \"どんなに・どれだけ・どれほど\".", 
+                "[動/い形/な形]・の名詞修飾型＋ことか<div>[な形 / 名]＋である＋ことか</div>", 
+                "人は私のことを頭がいいと言うけど、この試験に合格するために、どれだけ勉強した<b>ことか</b>。私の努力は誰も知らないでしょうね。", 
+                "", 
+                "", 
+                "自分がこれまでしてきたことや感じていることについて、気持ちを込めて言う時に使われる。「どんなに・どれだけ・どれほど」などの言葉と一緒に、独り言として言うことが多い。", 
+                "", 
+                "", 
                 "I wonder ; quite ; surely", 
-                "[動・い形・な形]の名詞修飾型＋ことか", 
-                "<div>息子から半年も連絡がない。一体何をしていることか</div>", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"view_1369409911.jpg\" />", 
+                "息子から半年も連絡がない。一体何をしていることか", 
+                "42"
             ], 
             "flags": 0, 
             "guid": "x.^=]-Nh9h", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1548,24 +1642,25 @@
             "fields": [
                 "40", 
                 "<div>~ことから</div>", 
-                "Because~ (tells why something is)&nbsp;", 
-                "[動・い形・な形・名]の名詞修飾型＋ことから", 
-                "道がぬれていることから、昨夜、雨が降ったことがわかった。", 
+                "When you want to give the reason for why a thing or land got its name, why a judgament was made, or the factors behind why something came to be true.", 
+                "[動/い形/な形]・の名詞修飾型＋ことから<div>[な形 / 名]＋である＋ことから</div>", 
+                "このサツマイモは中が赤い<b>ことから</b>、紅イモと呼ばれています。", 
                 "", 
                 "", 
-                "", 
+                "物や土地はその名前になった理由や、何かを判断した理由やそうなった原因を言いたい時に使う。", 
                 "", 
                 "[名]uses [である]、[な形]sometimes uses[である]", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Because~ (tells why something is)&nbsp;", 
+                "<img src=\"beni-1.jpg\" />", 
+                "道がぬれていることから、昨夜、雨が降ったことがわかった。", 
+                "62"
             ], 
             "flags": 0, 
             "guid": "cw;UFJem9h", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1574,24 +1669,25 @@
             "fields": [
                 "41", 
                 "<div>~ことだ</div>", 
-                "When you want to tell someone that something has importance", 
+                "Expresses the judgament of the speaker, as in \"you should ~; you ought to ~\". It's often used to give advice.", 
                 "[動-辞書形 / ない形-ない]＋ことだ", 
+                "仕事でもなんでも自分一人で悩まないで誰かに相談する<b>ことです</b>よ。", 
+                "", 
+                "", 
+                "「～すべきだ、～したほうがいい」という話者の判断を表す。アドバイスに使われることが多い。", 
+                "", 
+                "", 
+                "When you want to tell someone that something has importance", 
+                "<img src=\"nutritionist-500x366-300x220.jpg\" />", 
                 "大学に入りたければ、一所懸命勉強することだ。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "87"
             ], 
             "flags": 0, 
             "guid": "Nu{Efa-#Tj", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1626,24 +1722,25 @@
             "fields": [
                 "43", 
                 "<div>~ことなく</div>", 
-                "Without~", 
+                "When something happens or is completed even though some action has not been done, as in \"休むことなく働き続けている\".", 
                 "[動-辞書形]＋ことなく", 
-                "ロボットは２４時間休むことなく働いている。", 
+                "ロボットは２４時間休む<b>ことなく</b>働いている。", 
                 "", 
                 "", 
+                "何かをしない状態で後ろの動作が続いたり、完了したりする時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Without~", 
+                "<img src=\"paste-15530601742337.jpg\" />", 
+                "今回は優勝することができましたが、これで満足することなく、さらに努力を続けます。これからも、応援よろしくお願いします。", 
+                "20"
             ], 
             "flags": 0, 
             "guid": "Pk{QgjR=+K", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1652,24 +1749,25 @@
             "fields": [
                 "44", 
                 "<div>~ことに(は)</div>", 
-                "To my~ (strengthens the speakers feeling ex. To my surprise)", 
+                "Use this expression when you say something like \"困ったことにお金がなかった\" in reverse order, like \"I didn't have money and it was a problem\", and you want to express a feeling or emotion.", 
                 "[動-た形・い形-い・な形-な]＋ことに", 
+                "ホテルの部屋に入ったら、驚いた<b>ことに</b>、バラの花束とホテルマネージャーからの歓迎メッセージがテーブルの上に置いてあった。", 
+                "", 
+                "", 
+                "話者の気持ち、感情を強く表したい時に使う。", 
+                "", 
+                "", 
+                "To my~ (strengthens the speakers feeling ex. To my surprise)", 
+                "<img src=\"2-dozen-roses-brought.jpg\" />", 
                 "驚いたことに、私の祖父と恋人のおじさんは小学校時代の友達だったそうです。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "40"
             ], 
             "flags": 0, 
             "guid": "g6-j*1!/{{", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1704,24 +1802,25 @@
             "fields": [
                 "46", 
                 "<div>~ことはない</div>", 
+                "When you want to say \"there's no need to do ~; you don't have to do ~\". It is often used to give advice.", 
+                "[動-辞書形]＋ことはない・こともない", 
+                "君が謝る<b>ことはない</b>よ。悪いのは向こうなんだから。", 
+                "", 
+                "", 
+                "「～する必要はない・～しなくてもいい」と言いたい時に使う。アドバイスに使うことが多い。", 
+                "", 
+                "", 
                 "No need to ~", 
-                "[動-辞書形]＋ことはない", 
+                "<img src=\"aid18166-v4-728px-Apologize-Step-19-Version-2.jpg\" />", 
                 "時間は十分あるから、急ぐことはない。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "49"
             ], 
             "flags": 0, 
             "guid": "L8yt9z|*QP", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1729,25 +1828,26 @@
             "data": "", 
             "fields": [
                 "47", 
-                "<div>~さい際(は) / ~際に</div>", 
+                "<div>~ 際[さい](は) / ~ 際[さい]に</div>", 
+                "Used in manuals, guides and the like to mean \"if / when ~\". Phrases such as \"してください・必要です・お願いします\" often come afterward.", 
+                "[動-辞書形・た形 / 名-の]＋際(に)", 
+                "カードを紛失した<b>際は</b>カード会社にすぐ知らさせなければならない。", 
+                "", 
+                "", 
+                "「～場合」という意味で、説明書や案内などで使われる。後ろに「してください・必要です・お願いします」などの文が来ることが多い。", 
+                "", 
+                "", 
                 "When~ ; Upon~", 
-                "[動-辞書形 / た形；名-の]＋際", 
-                "カ-ドを紛失した際はカ-ド会社にすぐ知らさせなければならない。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"lost-credit-card-wallet1.jpg\" />", 
+                "入学手続きの際に必要なものは下記の通り。", 
+                "7"
             ], 
             "flags": 0, 
             "guid": "k_t0x;jgt]", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1810,24 +1910,25 @@
             "fields": [
                 "50", 
                 "<div>~さえ~ば</div>", 
+                "When you want to say \"~ is the only necesary condition\" as in \"給料さえよければどんな仕事でもいい\".", 
+                "[名]＋さえ＋[普通形-ば]<div>[動-ます形]＋さえ＋すれば・しなければ</div><div>[い形-く・な形で・名-で]＋さえ＋あれば・なければ</div>", 
+                "食べられ<b>さえすれば</b>、味は問わないよ。", 
+                "", 
+                "", 
+                "「～だけが必要な条件だ」と言いたい時に使う。", 
+                "", 
+                "", 
                 "If only~", 
-                "<div>[動-ます形]＋さえ＋すれば / しなければ</div><div>[い形-く；な形で；名-で]＋さえ＋あれば / なければ</div><div>[名]＋さえ＋[動-ば；い形-ければ；な形-なら；名-なら]</div>", 
-                "<div>インスタントラ-メンはお湯を入れさえすれば食べられる便利な食品だ。体さえ丈夫なら、どんな苦労に耐えられると思う。</div>", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"paste-19520626360321.jpg\" />", 
+                "インスタントラ-メンはお湯を入れさえすれば食べられる便利な食品だ。体さえ丈夫なら、どんな苦労に耐えられると思う。", 
+                "43"
             ], 
             "flags": 0, 
             "guid": "NOf1F?</%6", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1835,25 +1936,26 @@
             "data": "", 
             "fields": [
                 "51", 
-                "<div>~ざるをえ得ない</div>", 
-                "Can’t help thinking~", 
+                "<div>~ざるを 得[え]ない</div>", 
+                "When you want to say \"I don't like it, but I have to / there's nothing else I can do.\"", 
                 "[動-ない形]＋ざるを得ない", 
-                "みんなで決めた規則だから、守らざるを得ない。", 
+                "みんなで決めた規則だから、守ら<b>ざるを得ない</b>。", 
                 "", 
                 "", 
-                "", 
+                "状況から、「嫌だが～しなければならない・～するしかない」と言いたい時に使う。", 
                 "", 
                 "[する] becomes 「せざる得ない」", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Can’t help thinking~", 
+                "<img src=\"0206.gif\" />", 
+                "台風接近のため、野外コンサートは中止せざるを得なくなった。", 
+                "24"
             ], 
             "flags": 0, 
             "guid": "fb8qR@7+l&", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1862,7 +1964,7 @@
             "fields": [
                 "52", 
                 "<div>~しかない</div>", 
-                "When you say that given the current situation, onl this approach (as expressed by \"~\") is available, or that this is the best. This expression is also often used to say something along the lines of \"it can't be halped\".", 
+                "When you say that given the current situation, only this approach (as expressed by \"~\") is available, or that this is the best. This expression is also often used to say something along the lines of \"it can't be halped\".", 
                 "[動-辞書形 / 名]＋しかない", 
                 "事故で電車が動かないから、歩いて行く<b>しかない。</b>", 
                 "<div>～ほか（は）ない</div>", 
@@ -1888,25 +1990,26 @@
             "data": "", 
             "fields": [
                 "53", 
-                "<div>~しだい次第</div>", 
+                "<div>~ 次第[しだい]</div>", 
+                "When you say \"when something (that I can't do yet) happens, I'll do・・・right away.\"", 
+                "[動-ます形・名]＋次第", 
+                "ただ今、全線で運転を見合わせておりますが、情報が入り<b>次第</b>、お伝え致します。", 
+                "", 
+                "", 
+                "「(今はまだできないが)～たら、すぐ・・・する」と言う時に使う。", 
+                "", 
+                "", 
                 "As soon as~", 
-                "[動-ます形；名]＋次第", 
+                "<img src=\"0e5afb88f406f70920cdedbf4a803782.jpg\" />", 
                 "新しい住所を決まり次第、連絡します。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "36"
             ], 
             "flags": 0, 
             "guid": "uai_EQa[+R", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1941,24 +2044,25 @@
             "fields": [
                 "54.2", 
                 "<div>~次第だ / ~次第で(は)</div>", 
+                "As in \"忘年会は予算次第で五つのコースから選べる\", this states that something is decided according to \"~ (the budget)\".", 
+                "[名]＋次第", 
+                "登山ルートは天候<b>次第</b>で変更する場合もありますので、ご了承ください。", 
+                "", 
+                "", 
+                "「～」によって決まることを表す。", 
+                "", 
+                "", 
                 "Depending on~", 
-                "[名]＋次第だ", 
+                "<img src=\"pix.jpg\" />", 
                 "この世の中はお金次第だと言う人もいる。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "114"
             ], 
             "flags": 0, 
             "guid": "dK:?9a*Ek`", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1966,25 +2070,26 @@
             "data": "", 
             "fields": [
                 "55", 
-                "<div>~じょう上(は) / ~上の / ~上も</div>", 
-                "From the standpoint of~; (can also be thought of as ~ly. Ex. 歴史上?hisorically 法律上?legally)", 
+                "~ 上[じょう](は) / ~ 上[じょう]の / ~ 上[じょう]も", 
+                "Use it together with words that show a perspective meaning to mean \"in view of ~\".", 
                 "[名]＋上", 
-                "京都には歴史上有名なお寺が数多くある", 
-                "<div><br /></div>", 
+                "お札にはその国の歴史<b>上</b>の人物の顔が描かれていることが多い。", 
+                "", 
                 "the noun in front of ~上 is usually a Chinese word　Ex. 「教育上」、「外見上」、「経済上」、「政治上」、「学問上」、「表面上」、「職業上」、「外交上」etc…", 
+                "「~の点から教えて」という意味で、視点を示す言葉と一緒に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "From the standpoint of~; (can also be thought of as ~ly. Ex. 歴史上?hisorically 法律上?legally)", 
+                "<img src=\"img_intro02.jpg\" />", 
+                "京都には歴史上有名なお寺が数多くある", 
+                "70"
             ], 
             "flags": 0, 
             "guid": "yX$]:N.sZ0", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -1992,25 +2097,26 @@
             "data": "", 
             "fields": [
                 "56", 
-                "~(た)すえ末に / ~(た)末の / (~の) 末 (に)", 
+                "~ 末[すえ] (に) / ~末の", 
+                "When you want to say \"after doing ~ for a long time (in the end the result was ・・・)\". You can also use it even if it did not take a long time because it \"felt long\" to the speaker.", 
+                "[動-た形 / 名-の]＋末(に)", 
+                "家族ともよく話し合った<b>末</b>、今年度限りで引退することに決めました。", 
+                "", 
+                "", 
+                "「長い間～をして（最後に・・・という結果になった）」と言いたい時に使う。実際に長くなくても、話者にとって「長く感じられた」という場合にも使う。", 
+                "", 
+                "", 
                 "After~(for a long time)", 
-                "[動-た形；名-の]＋末", 
+                "<img src=\"paste-13773960118273.jpg\" />", 
                 "いろいろ考えた末、会社を辞めることにした。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "124"
             ], 
             "flags": 0, 
             "guid": "JH4p6_`rg^", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2046,24 +2152,25 @@
             "fields": [
                 "58.1", 
                 "<div>~だけ / ~だけあって / ~だけに / ~だけの</div>", 
+                "When you say that you sense that something \"feels even more ・・・ because of ~\"", 
+                "[動-辞書形・た形・ている形 / い形-い / な形-な / 名-な]＋だけに", 
+                "今年は猛暑な<b>だけに</b>、ビールが一層美味しく感じられる。", 
+                "", 
+                "", 
+                "感覚的に「～だから、さらに・・・と感じる」という時に使われる。", 
+                "", 
+                "", 
                 "Becoming of~ ; Worthy of~ ; Fitting of~", 
-                "[動・い形・な形・名]の名詞修飾型＋&lt;~だけ / ~だけあって / ~だけに / ~だけの&gt;", 
+                "<img src=\"29degrees.jpg\" />", 
                 "この仕事は努力しただけ成果が現れるので、やりがいがある", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "[名] doesn’t use [の]", 
-                "", 
-                "", 
-                "", 
-                ""
+                "105"
             ], 
             "flags": 0, 
             "guid": "pqH)/&H2vF", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2072,24 +2179,25 @@
             "fields": [
                 "58.2", 
                 "<div>~だけ / ~だけあって / ~だけに / ~だけの</div>", 
+                "Use it when you want to say something \"is a matter of course because of ~\"", 
+                "[動-辞書形・た形・ている形 / い形-い / な形-な / 名-な]＋だけあって・だけに<div>[な形 / 名]＋である＋だけあって・だけに</div>", 
+                "この町は文化遺産に登録されている<b>だけあって</b>、住民の環境保護に対する意識も高い。", 
+                "", 
+                "", 
+                "「～だから、当然そうだ」と言いたいときに使う。", 
+                "", 
+                "", 
                 "Because ; So&nbsp;", 
-                "[動・い形・な形・名]の名詞修飾型＋だけに", 
+                "<img src=\"h02_photo-main.jpg\" />", 
                 "昨年はみかんが不作で、値段が高かっただけに今年の豊作がうれしい。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "105"
             ], 
             "flags": 0, 
             "guid": "K*RGq_a*(y", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2098,24 +2206,25 @@
             "fields": [
                 "58.3", 
                 "<div>~だけ / ~だけあって / ~だけに / ~だけの</div>", 
+                "Use it when you want to say you \"do ~ to the maximum limit\" as in \"食べ放題だったので食べられるだけ食べた\".", 
+                "[動-できる・動-たい / 欲しい / 好きな]＋だけ", 
+                "春節を前にリンさんはお土産を持てる<b>だけ</b>持って、帰国した。", 
+                "", 
+                "", 
+                "「限界まで～をする」と言いたい時に使う。", 
+                "", 
+                "", 
                 "As long(much) as~", 
-                "[動・い形・な形]＋名詞修飾型＋&lt;だけ / だけの&gt;", 
+                "<img src=\"bring-a-souvenir-to-present.jpg\" />", 
                 "考えるだけ考えたが結論は出なかった。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "55"
             ], 
             "flags": 0, 
             "guid": "irrNEO0*JA", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2124,24 +2233,25 @@
             "fields": [
                 "59", 
                 "<div>~たとえ~ても / ~たとえ~でも</div>", 
+                "Meaning \"even if ~ \", when you want to strongly say \"no matter what situation\".", 
+                "たとえ＋[動-ても・い形-くても・な形-でも・名-でも]", 
+                "子供がいるので、<b>たとえ</b>給料が高く<b>ても</b>、土日に休めない仕事はしたくない。", 
+                "", 
+                "", 
+                "「もし～ても」という意味で、「どんな場合でも」と強く言いたい時に使う。", 
+                "", 
+                "", 
                 "Even if~", 
-                "たとえ[動-ても；い形-くても；な形-でも；名-でも]", 
+                "<img src=\"paste-20276540604417.jpg\" />", 
                 "自分で決めた道だから、失敗しても後悔しない。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "125"
             ], 
             "flags": 0, 
             "guid": "j!CPD~EWxQ", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2309,26 +2419,27 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "67", 
-                "<div>~つつ / ~つつも</div>", 
+                "67.1", 
+                "~つつ", 
+                "Same mining as \"ながら\"", 
                 "[動-ます形]＋つつ", 
-                "1. While~<div>2.&nbsp;~Though</div>", 
-                "1. 財布の中身を考えつつ、買い物をした。<div>2.&nbsp;悪いと知りつつ、うそをついてしました。</div>", 
+                "クリスマスを前におもちゃ売り場には、喜ぶ子供の顔を思い浮かべ<b>つつ</b>、プレゼントを選ぶお父さんの姿が増えています。", 
                 "", 
-                "Not used in conversations. 「~つつも」can not be used in this way", 
-                "", 
-                "", 
+                "Not used in conversations.", 
+                "「～ながら」と同じ意味で使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                ""
+                "While~", 
+                "<img src=\"7f3841fbe9c77651b699a688af8f5784.jpg\" />", 
+                "財布の中身を考えつつ、買い物をした。", 
+                "30"
             ], 
             "flags": 0, 
             "guid": "c(FS0T3rP6", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2337,24 +2448,25 @@
             "fields": [
                 "68", 
                 "<div>~つつある</div>", 
-                "Be (gradually) doing~", 
+                "Use this to explain that something is changing little by little as in \"日本の人口は減りつつある\".", 
                 "[動-ます形]＋つつある", 
-                "景気は徐々に回復しつつある。", 
+                "異常気象の影響が世界各地に広がり<b>つつある。</b>", 
                 "", 
                 "Used mostly in written form", 
+                "少しずつ変化していると説明する時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Be (gradually) doing~", 
+                "<img src=\"lightning.jpg\" />", 
+                "景気は徐々に回復しつつある。", 
+                "71"
             ], 
             "flags": 0, 
             "guid": "P7>ltgg`C,", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2416,25 +2528,26 @@
             "data": "", 
             "fields": [
                 "70", 
-                "<div>~(て)いらい以来</div>", 
+                "<div>~(て) 以来[いらい]</div>", 
+                "When a condition has continued from \"~\" until now.", 
+                "[動-て形 / 名]＋以来", 
+                "母が入院して<b>以来</b>、家事はすべて私がしています。", 
+                "", 
+                "", 
+                "「～」の時から今までずっと同じ状態が続いている時に使う。", 
+                "", 
+                "", 
                 "Since~(and still going on)", 
-                "[動-て形]＋以来", 
-                "日本に来て以来、日本に対する考え方が少しずつ変わってきた。", 
-                "", 
-                "Shows the continuation of something that happened in the past and is still going on.", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"housework.jpg\" />", 
+                "3年前の夏休みに帰国して以来、長い間家族に会っていません。", 
+                "9"
             ], 
             "flags": 0, 
             "guid": "D(S~[^zB^n", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2497,24 +2610,25 @@
             "fields": [
                 "73", 
                 "<div>(~て)ならない</div>", 
+                "Is used when you want to say something \"is extremely ~\".<br>", 
+                "[動-て形 / い形-くて / な形-で]＋ならない", 
+                "私のように年をとってくると、ふるさとの山々が懐かしく思い出されて<b>ならない</b>んですよ。", 
+                "", 
+                "<div>「綺麗・下手」など評価を表す言葉と一緒には使わなう。</div><div>Don't use it with words that assess.</div>More formal than「~てたまらない」。「思える」、「思い出す」etc. can't use 「~てたまらない」", 
+                "「非常に～だ」と言いたいときに使われる。", 
+                "", 
+                "「残念・不安・心配・つらい・悔しい」など、感情を表す言葉と一緒に使う。<div>Use it together with words that express feelings.</div>", 
                 "Can’t help~ing", 
-                "[動-て形；い形-くて；な形-で]＋ならない", 
+                "<img src=\"paste-12768937771009.jpg\" />", 
                 "交通事故で両親を亡くした子供がかわいそうに思えてならない。", 
-                "", 
-                "More formal than「~てたまらない」。「思える」、「思い出す」etc. can't use 「~てたまらない」", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "121"
             ], 
             "flags": 0, 
             "guid": "QWb*|_PW%^", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2552,7 +2666,7 @@
                 "<div>~というと&nbsp;/ ~といえば&nbsp;/ ~といったら</div>", 
                 "When you say something that people often associate with \"~\". The example given is often something famous or typical.", 
                 "[名]＋というと・といえば・といったら", 
-                "スポ-ツの祭典<b>というと</b>、まずオリンピックですね", 
+                "スポーツの祭典<b>というと</b>、まずオリンピックですね", 
                 "", 
                 "", 
                 "その言葉から多くの人がイメージする物事を言う時に使う。有名なものや代表的なものを言うことが多い。", 
@@ -2603,24 +2717,25 @@
             "fields": [
                 "76", 
                 "<div>~というものだ</div>", 
-                "Is known as~ ; It is that~", 
+                "When you want to say tou think that \"this isn't what I think, but generally it's like this\".", 
                 "[普通形]＋というものだ", 
-                "<div>彼の作品がやっと世間から評価された。長年の苦労が認められたというものだ。</div>", 
+                "貧しくても家族が仲良く暮らせるのが幸せ<b>というものです</b>よ。", 
                 "", 
                 "", 
-                "", 
+                "話者の考えを、個人的な意見ではなく一般的にそうだと言いたい時に使う。", 
                 "", 
                 "sometimes [な形；名]don't use [だ]", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Is known as~ ; It is that~", 
+                "<img src=\"418811132e2875e93c1d693859c360d7.jpg\" />", 
+                "彼の作品がやっと世間から評価された。長年の苦労が認められたというものだ。", 
+                "52"
             ], 
             "flags": 0, 
             "guid": "sY;S#n^R1u", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2629,24 +2744,25 @@
             "fields": [
                 "77", 
                 "<div>~というものではない / ~というものでもない</div>", 
-                "Not necessarily~ ; It’s not that", 
-                "[普通形]＋というものではない", 
-                "性格は絶対に変えられないというものではない。", 
+                "When you want to say that \"people usually think so, but it's not necesarilly like that\"", 
+                "[普通形]＋というものではない・というものでもない", 
+                "性格は絶対に変えられない<b>というものではない</b>。", 
                 "", 
                 "", 
-                "", 
+                "一般的にそう思われていることも、絶対そうだとは言えないと言いたい時に使う。", 
                 "", 
                 "sometimes [な形；名]don't use [だ]", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Not necessarily~ ; It’s not that", 
+                "<img src=\"YesYouCanChangeYourPersonality-800x588.jpg\" />", 
+                "勉強は今日やれば明日やらなくていいというものではない。", 
+                "25"
             ], 
             "flags": 0, 
             "guid": "B#nW<,%vR{", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2655,24 +2771,25 @@
             "fields": [
                 "78", 
                 "<div>~というより</div>", 
-                "More than~", 
-                "[普通形]＋というより", 
-                "彼の言い方は勧めているというより、強制しているよ。", 
+                "As in \"涼しいというより寒い\", use \"AというよりB\" when you want to say \"it's more important to say B (it's cold) than A (it's cool).", 
+                "[普通形-○]＋というより", 
+                "彼の言い方は勧めている<b>というより</b>、強制しているよ。", 
                 "", 
                 "", 
-                "", 
+                "「Aの言い方よりBと言ったほうが適切だ」と言いたい時に使う。", 
                 "", 
                 "[な形・名] do not use [だ]", 
-                "", 
-                "", 
-                "", 
-                ""
+                "More than~", 
+                "<img src=\"Government-oppression-sign-Cropped-620x400.png\" />", 
+                "姉は僕より10歳年上で、小さい時からいろいろ世話をしてくれたので、姉というより母親のような存在だ。", 
+                "28"
             ], 
             "flags": 0, 
             "guid": "JT-%}oSw+|", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2707,24 +2824,25 @@
             "fields": [
                 "80", 
                 "<div>~といっても</div>", 
-                "But~ ; Although~ (show what your thinking about is wrong or different)", 
-                "[普通形]＋といっても", 
-                "庭があるといっても猫の額ほどです。", 
+                "As in \"会社といっても妻と二人でやっている小さい会社です\", use this when you want to say \"It's not actually like that\" in response to what the listener has imagined (the company has many employees).", 
+                "[普通形]＋といっても・といいましても", 
+                "1世帯<b>といっても</b>、一人暮らしの人から10人以上の大家族までいろいろある。", 
                 "", 
                 "", 
-                "", 
+                "相手が想像したことに対して、「実際にはそうではない」と言いたいときに使う。", 
                 "", 
                 "sometimes[な形；名]don't use [だ]", 
-                "", 
-                "", 
-                "", 
-                ""
+                "But~ ; Although~ (show what your thinking about is wrong or different)", 
+                "<img src=\"IMG_20181006_011240.jpg\" />", 
+                "庭があるといっても猫の額ほどです。", 
+                "103"
             ], 
             "flags": 0, 
             "guid": "b.V4oacQH6", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2760,24 +2878,25 @@
             "fields": [
                 "82", 
                 "<div>~とか</div>", 
-                "hear that~ ; say that~", 
+                "This is used in forms such as \"～とか言っていた\" when you state information you have heard. It is often used with the nuance that the information may not be solid. You can also omit words such as \"言っていた\".", 
                 "[普通形]＋とか", 
+                "息子さんが今度結婚なさる<b>とか</b>。おめでとうございます。", 
+                "", 
+                "", 
+                "聞いた情報を言う時に使われる。確かな情報ではないがという気持ちで使うことが多い。", 
+                "", 
+                "", 
+                "hear that~ ; say that~", 
+                "<img src=\"married-588592153df78c2ccdf11fde.jpg\" />", 
                 "新聞によると、国内線の飛行機運賃が上がるとか。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "107"
             ], 
             "flags": 0, 
             "guid": "g!Dn78qySD", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2786,24 +2905,25 @@
             "fields": [
                 "83", 
                 "<div>~どころか</div>", 
-                "Far from~", 
-                "[普通形]＋どころか", 
-                "<div>彼は貯金するどころか借金だらけだ。</div>", 
+                "As in \"雨が降るどころかすごくいい天気になった\", it expresses a feeling that strongly says \"it's not A (rainy weather), it's the opposite (fine weather)\". In addition, as in \"漢字どころかひらがなも読めない\", it's also used when you say \"it's not A (not able to read kanji), it's something much more, B (not able to even read hiragana)\". A is often something the listener said or something the speaker just thought of.", 
+                "[普通形-○]＋どころか", 
+                "高校生の時は、海外旅行<b>どころか</b>国内旅行もしたことがありませんでした。", 
                 "", 
                 "", 
-                "", 
+                "Aではなくて反対のBだと強く言う気持ちを表す。また、Aよりもっと程度がすごいBと言う時に使う。Aには相手の言ったことや自分が初めに思ったことなどが入ることが多い。", 
                 "", 
                 "[な形・名]don't use[だ]；[な形-な]can be used", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Far from~", 
+                "<img src=\"paste-21294447853569.jpg\" />", 
+                "彼は貯金するどころか借金だらけだ。", 
+                "83"
             ], 
             "flags": 0, 
             "guid": "i5/3tjI)d8", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2812,24 +2932,25 @@
             "fields": [
                 "84", 
                 "<div>~どころではない / ~どころではなく</div>", 
+                "When you want to explain thet your situation now is \"not a situation wher I can do ~ (so I can't do it).\"", 
+                "[動-辞書形 / 名]＋どころではない・どころじゃない", 
+                "A: 学校が終わったらカラオケ行かない？<div>B: カラオケ<b>どころじゃない</b>よ！レポート、書かなきゃ。明日締め切りなんだ・締め切りなんだ。</div>", 
+                "", 
+                "", 
+                "今は「～ができる状態ではない(だからできない)」という自分の状況を説明したい時に使う。", 
+                "", 
+                "", 
                 "Can’t do ~ because~", 
-                "[動-辞書形；名]＋どころではない", 
+                "<img src=\"paste-10750303141889.jpg\" />", 
                 "人の仕事を手伝うどころではありません。自分の仕事も間に合わないんです。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "38"
             ], 
             "flags": 0, 
             "guid": "EWs+cDH^JP", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2865,24 +2986,25 @@
             "fields": [
                 "86", 
                 "<div>~としたら / ~とすれば</div>", 
-                "1.&nbsp;If~<div>2.&nbsp;If~ (Think from the perspective of~)</div>", 
-                "[普通形]＋としたら", 
-                "1.&nbsp;留学するとしたら、日本に行きたいと思っていました。<div>2.&nbsp;足の悪い人が地下鉄を利用するとしたら、どんな設備が必要だろうか。</div>", 
+                "Use it meaning \"imagine if ~, ・・・\", when you want to state a personal opinion or prediction.", 
+                "[普通形]＋としたら・とすると・とすれば", 
+                "もし、生まれ変われる<b>としたら</b>、私は鳥になりたい。", 
                 "", 
                 "", 
+                "「～だと考えば・・・」という意味で、自分の意見や予想を言いたい時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "If~ (Think from the perspective of~)", 
+                "<img src=\"Screen-Shot-2013-11-05-at-1.31.59-PM.png\" />", 
+                "留学するとしたら、日本に行きたいと思っていました。<div>足の悪い人が地下鉄を利用するとしたら、どんな設備が必要だろうか。</div>", 
+                "113"
             ], 
             "flags": 0, 
             "guid": "yPR=]J;AHn", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2891,24 +3013,25 @@
             "fields": [
                 "87", 
                 "<div>~として(は) / ~としての / としても</div>", 
-                "As~", 
+                "When you want to state a qualification, use or the like, as in \"留学生として\" and \"旅行用として\".", 
                 "[名]＋として", 
-                "この病気は難病として認定された。", 
+                "この病気は難病<b>として</b>認定された。", 
                 "", 
                 "", 
+                "資格・用途などを言う時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "As~", 
+                "<img src=\"paste-10436770529281.jpg\" />", 
+                "入社後は企業人としての自覚を持って行動してください。", 
+                "22"
             ], 
             "flags": 0, 
             "guid": "sVpGWex-NE", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2969,24 +3092,25 @@
             "fields": [
                 "88.3", 
                 "<div>~とともに</div>", 
+                "When you say \"together with ~\" or \"not only ~ but also・・・\". You can also use it to say that \"・・・happens together with ~\", or to express a change.", 
+                "[動-辞書形 / 名]＋とともに", 
+                "彼は医療ボランティアとして現地の医師<b>とともに</b>日夜病気の治療を行っている。", 
+                "", 
+                "", 
+                "「～と一緒に・～だけでなく」と言う時に使う。「と一緒に・・・が生じる・起きる」と言う時や、変化を表す時にも使う。", 
+                "", 
+                "", 
                 "As~", 
-                "[動-辞書形 ; 名]＋とともに", 
+                "<img src=\"rsz_gettyimages-182435747.jpg\" />", 
                 "年をとるとともに、体力が衰える。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "35"
             ], 
             "flags": 0, 
             "guid": "KK)QGUR,2l", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -2995,24 +3119,25 @@
             "fields": [
                 "89", 
                 "<div>~ないことには</div>", 
-                "If not~", 
-                "[動-ない形；い形-く；な形-で；名-で]＋ないことには", 
-                "実際に読まないことには、この小説の面白さは分からないだろう。", 
+                "Is used when you want to say \"if you don't do ~, then you can't / you won't know ・・・\".", 
+                "[動-ない形 / い形-く / な形-で / 名-で]＋ないことには", 
+                "もっと広い会場は借り<b>ないことには</b>、観客を収容しきれないだろう。", 
                 "", 
                 "The following sentence will be negative.", 
+                "「～なければ（・・・できない・わからない）」と言いたいときに使われる。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "If not~", 
+                "<img src=\"homepic.jpg\" />", 
+                "実際に読まないことには、この小説の面白さは分からないだろう。", 
+                "110"
             ], 
             "flags": 0, 
             "guid": "Ej3z,{v)G~", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3021,24 +3146,25 @@
             "fields": [
                 "90", 
                 "<div>~ないことはない / ~ないこともない</div>", 
+                "When you cannot say flat out that something \"absolutley is ~\" or are not confident and do not want to say something flat out.", 
+                "[動-ない形 / い形-く / な形-で / 名-で]＋ないことはない", 
+                "カラオケは行か<b>ないこともない</b>んです、誘われた時にお付き合いで行くぐらいです。", 
+                "", 
+                "", 
+                "「絶対～だ」とはっきり言えない、自信がなくてはっきり言いたくない時に使う。", 
+                "", 
+                "", 
                 "Possibility of~ &nbsp;(Neither yes or no)", 
-                "[動-ない形；い形-く；な形-で；名-で]＋ないことはない", 
+                "<img src=\"karaoke2-1446926502-600x360.jpg\" />", 
                 "難しいが、やり方次第ではできないことはないだろう。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "54"
             ], 
             "flags": 0, 
             "guid": "Rd=1x)XY{t", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3048,8 +3174,8 @@
                 "91", 
                 "<div>~ないではいられない / ずにはいられない</div>", 
                 "When you say that you can not stand it and end up doing \"~\" no matter how hard you try not to do.", 
-                "[動-ない形]＋ずにはいられない<div>[動-ない形-ない]＋ではいられない</div>", 
-                "彼のもの真似を見るとおかしくて、笑<b>わないではいられない。</b>", 
+                "[動-ない形]＋ずにはいられない<div>[動-ない形]＋ないではいられない</div>", 
+                "彼のもの真似を見るとおかしくて、笑わない<b>ではいられない。</b>", 
                 "～ないではいられない", 
                 "Only for first person. &nbsp;For third person, use 「~ようだ」「~らしい」at the end.", 
                 "我慢ができなくて、どうしても～してしまう状況だと言う時に使う。", 
@@ -3074,24 +3200,25 @@
             "fields": [
                 "92", 
                 "<div>~ながら</div>", 
-                "Though~", 
-                "[動-ます形 / ないけい-ない；い形-○；な形-○；名]＋ながら", 
-                "一緒に暮らしていながら、母の病気に気づかなかった。", 
+                "When you want to say \"this is the situation, but...\"", 
+                "[動-ます形・ない形-ない / い形-○ / な形-○ / 名]＋ながら<div>[な形-○ / 名]＋であり＋ながら</div>", 
+                "一緒に暮らしてい<b>ながら</b>、母の病気に気づかなかった。", 
                 "「~つつ / ~つつも」のBの意味", 
                 "", 
+                "「～の状態だが、けれども」と言いたい時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Though~", 
+                "<img src=\"Illness-Disease.jpg\" />", 
+                "彼とは同じ尞に住んでいながら、ほとんど話をしたことがなかった。", 
+                "15"
             ], 
             "flags": 0, 
             "guid": "HhFsZQKnHn", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3127,24 +3254,25 @@
             "fields": [
                 "94", 
                 "<div>~にあたり / ~にあたって</div>", 
+                "It means \"when doing ~\".", 
+                "[動-辞書形 / 名]＋にあたって・にあたり", 
+                "開会<b>にあたって</b>、一言ご挨拶申し上げます。", 
+                "", 
+                "", 
+                "「～をするときに」という意味を表す。", 
+                "", 
+                "", 
                 "When~(show something that should be done in this situation)", 
-                "[動-辞書形；名]＋にあって", 
+                "<img src=\"paste-23038204575745.jpg\" />", 
                 "開会にあたって、ひとことごあいさつ申し上げます。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "135"
             ], 
             "flags": 0, 
             "guid": "6S$D4x{75", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3153,24 +3281,25 @@
             "fields": [
                 "95", 
                 "<div>~において(は) / ~においても / ~における</div>", 
+                "When you want to say a place, time, field / subject, area and so on. Often used in announcements and the like.", 
+                "[名]＋において<div>[名]＋における＋[名]</div>", 
+                "会議は第一会議室<b>において</b>行われる。", 
+                "", 
+                "", 
+                "「場所・時代・分野などで」と言いたい時に使う。お知らせやニュースなどで使われることが多い。", 
+                "", 
+                "", 
                 "In ; At ; On ; same as the particle で", 
-                "[名]＋において", 
-                "会議は第一会議室において行なわれる。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"1stkaigi1.jpg\" />", 
+                "入学試は、3階のホールにおいて行われます。", 
+                "6"
             ], 
             "flags": 0, 
             "guid": "h[r-c2Rx;W", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3181,7 +3310,7 @@
                 "<div>~に 応[おう]じ / ~ 応[おう]じた / ~ 応[おう]じて</div>", 
                 "When you want to say that something \"depends on conditions such as a desire, change, location, situation, age, ability or experience.\"", 
                 "[名]＋に応じて", 
-                "保険金は被害状況に応じて、払われる。", 
+                "保険金は被害状況<b>に応じて</b>、払われる。", 
                 "", 
                 "", 
                 "「希望・変化・地域・状況・年齢・能力・経験などの条件に合わせて・・・する」と言いたい時に使う。", 
@@ -3208,7 +3337,7 @@
                 "<div>~にかかわらず / ~に(は)かかわりなく</div>", 
                 "Is used when you want to say \"regardless of conditions such as weather, preference, social position, or whether something is there or not there, done or not done, etc.\"", 
                 "[名]＋にかかわらず<div>[動-辞書形＋動-ない形-ない]＋にかかわらず</div>", 
-                "参加するしないかかわらず、必ず返事をください。", 
+                "参加するしない<b>かかわらず</b>、必ず返事をください。", 
                 "", 
                 "<div>Nouns showing a kind or extent of something, or 2 words in opposition are usually used.&nbsp;Such as 「する・しない」「晴雨」。Adjectives such as 「いい・悪い」「好き・嫌い」「上手・下手」&nbsp;can be combined and used.</div>", 
                 "「天候・好み・地位や、あるなし・するしないなどの条件に関係なく・・・」と言いたい時に使われる。", 
@@ -3232,10 +3361,10 @@
             "data": "", 
             "fields": [
                 "98.1", 
-                "<div>~にかぎ限って / ~限り / ~に限る</div>", 
+                "<div>~に 限[かぎ]って / ~ 限[かぎ]り / ~に 限[かぎ]る</div>", 
                 "It's often used to mean \"only / just\" in an announcement and the like.", 
                 "[名]＋に限る・に限り・に限って", 
-                "参加者は女性に限る", 
+                "参加者は女性<b>に限る</b>。", 
                 "", 
                 "[名]＋に限って...ない」の形で、予想していなかった悪いことが起きた時や、噂などに対して信じられないと強く否定したい時に使う。", 
                 "「だけ」という意味で、お知らせなどによく使われる。", 
@@ -3259,25 +3388,26 @@
             "data": "", 
             "fields": [
                 "98.2", 
-                "<div>~にかぎ限って / ~限り / ~に限る</div>", 
-                "Without fail~", 
+                "<div>~に 限[かぎ]って / ~ 限[かぎ]り / ~に 限[かぎ]る</div>", 
+                "When you want to criticize that \"people in ~ position generally (tend to...)\".", 
                 "[名]＋に限って", 
+                "よく知らないやつ<b>に限って</b>、偉そうなことを言う。", 
+                "", 
+                "", 
+                "「～の立場の人は一般的に（・・・の傾向がある）」と批判的に言いたい時に使う。", 
+                "「答えがわからない時に限って先生に質問される」のように、「～の時運悪く・・・」と言いたい時にも使う。<div>You can also use it when you want to say someone has \"bad luck when ~\".</div>", 
+                "", 
+                "Without fail~", 
+                "<img src=\"10-things-great-leaders-never-say-to-their-employees-640x302.png\" />", 
                 "あの人に限って、人をだますようなことはなし。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "86"
             ], 
             "flags": 0, 
             "guid": "Is}13~%z5O", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3285,25 +3415,26 @@
             "data": "", 
             "fields": [
                 "98.3", 
-                "<div>~にかぎ限って / ~限り / ~に限る</div>", 
+                "<div>~に 限[かぎ]って / ~ 限[かぎ]り / ~に 限[かぎ]る</div>", 
+                "Expresses your idea that \"~ is absolutely the best\".", 
+                "[動-辞書形・ない形-ない / 名]＋に限る", 
+                "運動の後は、はちみつとレモンのジュース<b>に限る</b>。", 
+                "", 
+                "", 
+                "「絶対～が一番いい」という自分の考えを表す。", 
+                "", 
+                "", 
                 "Be the best~", 
-                "[動-辞書形 / ない形-ない；名]＋に限る", 
+                "<img src=\"e4901777261440.jpg\" />", 
                 "風邪を引いた時は、部屋を暖かくして寝るに限る。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "104"
             ], 
             "flags": 0, 
             "guid": "k:Y^j2r6KS", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3312,24 +3443,25 @@
             "fields": [
                 "99", 
                 "<div>~に限らず</div>", 
-                "Not only~but also~", 
+                "When you want to say \"not just ~, but also something else\".", 
                 "[名]＋に限らず", 
+                "環境対策のためにも、夏<b>に限らず</b>年間を通して節電を心がけるべきだ。", 
+                "", 
+                "", 
+                "「～だけでなく、他にも」と言いたい時に使う。", 
+                "", 
+                "", 
+                "Not only~but also~", 
+                "<img src=\"131876-425x282-whyconserveenergy.JPG\" />", 
                 "ディズニ-ランドは子供に限らず、大人にも人気がある。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "72"
             ], 
             "flags": 0, 
             "guid": "I)p8D|#G7Y", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3338,24 +3470,25 @@
             "fields": [
                 "100", 
                 "<div>~にかけては / ~にかけても</div>", 
-                "If (when) talking about ~ ; As far as~is concerned~", 
+                "Is used when you want to say that when it comes to \"the field / subject area of ~\", you have \"the highest level\", are \"confident\" or the like.", 
                 "[名]＋にかけては", 
-                "数学にかけては、彼女はクラスでいつも一番だった。", 
+                "日本酒造り<b>にかけては</b>彼の右に出る者はいない。", 
                 "", 
                 "followed by a positive sentence", 
+                "「～の分野では」と範囲を限定して、その分野では「最高レベルだ」「自信がある」などと言いたいときに使われる。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "If (when) talking about ~ ; As far as~is concerned~", 
+                "<img src=\"making_sake.jpg\" />", 
+                "数学にかけては、彼女はクラスでいつも一番だった。", 
+                "109"
             ], 
             "flags": 0, 
             "guid": "cfzMyxN>g)", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3416,25 +3549,26 @@
             "data": "", 
             "fields": [
                 "104", 
-                "<div>~にくら比べ / ~に比べて</div>", 
-                "Compare~ to~", 
+                "<div>~に 比[くら]べ / ~に 比[くら]べて</div>", 
+                "Use it when you want to compare two or more things and say how much they differ. It has the same meaning as \"～より\".", 
                 "[名]＋に比べて", 
+                "いちごはレモン<b>に比べて</b>、ビタミンCが多いんだって。ほんとかな？", 
+                "", 
+                "", 
+                "「～より」と同じ意味で、二つ以上の物を比較し、程度の違いを言いたい時に使う。", 
+                "", 
+                "", 
+                "Compare~ to~", 
+                "<img src=\"paste-13052405612545.jpg\" />", 
                 "兄に比べて、弟はよく勉強する。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "50"
             ], 
             "flags": 0, 
             "guid": "iylc#xml#N", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3442,25 +3576,26 @@
             "data": "", 
             "fields": [
                 "105", 
-                "<div>~にくわ加え / ~に加えて</div>", 
-                "In addition to~", 
+                "<div>~に 加[くわ]え / ~に 加[くわ]えて</div>", 
+                "Means \"not only ~, but also\".", 
                 "[名]＋に加えて", 
+                "優れたサッカー選手になるには、運動能力<b>に加えて</b>、判断力や協調性が求められる。", 
+                "", 
+                "", 
+                "「～だけでなく、その上」という意味を表す。", 
+                "", 
+                "", 
+                "In addition to~", 
+                "<img src=\"paste-24459838750721.jpg\" />", 
                 "電気代に加えて、ガス代まで値上がりした。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "136"
             ], 
             "flags": 0, 
             "guid": "I))~!9P]#m", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3469,24 +3604,25 @@
             "fields": [
                 "106", 
                 "<div>~にこたえ / ~にこたえた / ~にこたえて / ~にこたえる</div>", 
+                "Use it when you want to say \"according to another person's expectation or request\".", 
+                "[名]＋にこたえて<div>[名]＋にこたえた＋[名]</div><div>ご[名]＋におこたえて</div>", 
+                "そのアイドルはコンサートの最後にアンコール<b>にこたえて</b>もう1曲歌った。", 
+                "", 
+                "", 
+                "「相手からの期待や要請の通りに」と言いたいときに使う。", 
+                "", 
+                "", 
                 "In response to~ ; In reply to~", 
-                "[名]＋にこたえて", 
+                "<img src=\"paste-9998683865089.jpg\" />", 
                 "社員の要求にこたえて、労働時間を短縮した。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "118"
             ], 
             "flags": 0, 
             "guid": "Kbs^_0*Z<;", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3494,25 +3630,26 @@
             "data": "", 
             "fields": [
                 "107", 
-                "<div>~にさい際し / ~に際して /　~に際しての</div>", 
-                "When starting~ ; When doing~", 
-                "[動-辞書形：名]＋に際して", 
-                "留学に際して、先生や友人から励まし言葉をもらった。", 
+                "<div>~に 際[さい]し / ~に 際[さい]して /　~に 際[さい]しての</div>", 
+                "It is used in sentences such as warnings, apologies, explanations and the like.", 
+                "[動-辞書形 / 名]＋に際して", 
+                "留学<b>に際して</b>、先生や友人から励まし言葉をもらった。", 
                 "「~にあたって」", 
                 "", 
+                "注意やおわび、説明などの文に使われる。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "When starting~ ; When doing~", 
+                "<img src=\"my_wso_story_img_boys064b.jpg\" />", 
+                "各種書類の提出に際しては、期限を厳守してください。", 
+                "7"
             ], 
             "flags": 0, 
             "guid": "h9fBL9@)Fr", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3520,25 +3657,26 @@
             "data": "", 
             "fields": [
                 "108", 
-                "<div>~にさきだ先立ち / ~に先立て / ~に先立つ</div>", 
+                "<div>~に 先立[さきだ]ち / ~に 先立[さきだ]て / ~に 先立[さきだ]つ</div>", 
+                "Is used when you want to say \"something will be done before ~\".", 
+                "[名]＋に先立って・に先立ち<div>[名]＋に先立つ＋[名]</div>", 
+                "レストランの開店<b>に先立って</b>、試食会が開かれた。", 
+                "", 
+                "", 
+                "「～の前に、何かが行われる」と言いたいときに使われる。", 
+                "", 
+                "", 
                 "Before ~ ; Right before~", 
-                "[名]＋先立って", 
+                "<img src=\"paste-18674517803009.jpg\" />", 
                 "映画の一般公開に先立って、主演女優のサイン会が開かれた。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "116"
             ], 
             "flags": 0, 
             "guid": "Dxk|SoSYL&", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3547,24 +3685,25 @@
             "fields": [
                 "109", 
                 "<div>~にしたがい / ~にしたがって</div>", 
+                "Use it when you want to say \"something else changes along with a change in ~\". You can also use it when you want to say \"in concert with ~\".", 
+                "[動-辞書形・名]＋にしたがって・にしたがい", 
+                "暑くなる<b>にしたがって</b>、体調を崩す人が増えた。", 
+                "「~とともに」；「~につれて」", 
+                "", 
+                "「～の変化に合わせて、他のことも変化する」と言いたい時に使う。「～に合わせて」と言いたい時にも使う。", 
+                "", 
+                "", 
                 "With~ ; Following~ ; As~ (when one the changes so does the other)", 
-                "[動--辞書形；名]＋にしたがって", 
+                "<img src=\"humans-clipart-sick-15.jpg\" />", 
                 "高く登るにしたがって、見晴らしがよくなった。", 
-                "「~とともに」のＣの意味；「~につれて」", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "65"
             ], 
             "flags": 0, 
             "guid": "Pxz0EF]uWe", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3599,76 +3738,52 @@
             "fields": [
                 "111", 
                 "<div>~にしては</div>", 
-                "Although ; Even though", 
-                "[普通形]＋にしては", 
-                "<div>兄はアメリカに２０年いたにしては英語が下手だ。</div>", 
+                "When you want to say that something is \"different from what you would expect from ~\" as in \"小学1年生にしては背は高い\".", 
+                "[普通形-○]＋にしては", 
+                "今人気のエリナはモデル<b>にしては</b>背が高いほうではない。", 
                 "", 
                 "", 
-                "", 
+                "「～から予想することとは違う」と言いたい時に使う。", 
                 "", 
                 "[な形；名]don't use [だ]", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Although ; Even though", 
+                "<img src=\"BMTFp5jCYAACae0.jpg\" />", 
+                "兄はアメリカに２０年いたにしては英語が下手だ。", 
+                "41"
             ], 
             "flags": 0, 
             "guid": "OC*JK^sVD8", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "112.1", 
-                "<div>~にしても / ~にしろ / ~に(も)せよ</div>", 
-                "Even if~", 
-                "[普通形]＋にしろ", 
-                "どんな人間にしろ長所はあるものだ。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "[な形；名]don't use [だ]. [~である]can be used.", 
-                "", 
-                "", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "syEP>I3zW-", 
-            "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
-            "tags": [
-                "JLPT.N2"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "112.2", 
+                "112", 
                 "~にしても / ~にしろ / ~に(も)せよ", 
-                "<div>Whenever~&nbsp;</div>", 
-                "[普通形]＋にしろ＋[普通形]＋にしろ", 
-                "ビ-ルにしろ、日本酒にしろ飲んだら運転できない。", 
+                "Is used when you want to give examples from a category and say that \"not only ~ but all of them\" are something. It is also used with pairs of antonyms such as \"いい・悪い\", \"好き・嫌い\", \"する・しない\", and \"出席する・欠席する\" when you want to say that something could be applicable in either case.&nbsp;", 
+                "[普通形-○]＋にしろ・にしても・にせよ＋[普通形-○]＋にしろ・にしても・にせよ", 
+                "東京<b>にしろ</b>大阪<b>にしろ</b>大都市には働く場所が多いので人が集まってくる。", 
                 "", 
+                "\"~にしろ\" can also be used only once in a sentence when used together with a question word.<div>「～にしろ」が、疑問詞と一緒に、一つだけで使われることもある。</div>", 
+                "ある範囲内のものから例をあげて、「～だけでなくどれでも」と言いたいときに使われる。「いい・悪い」「好き・嫌い」「する・しない」「出席する・欠席する」など反対の意味の言葉を使って、どちらの場合でもと言いたいときにも使われる。", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "[~である]can be used.", 
+                "Whenever~,&nbsp;Even if~", 
+                "<img src=\"238px-Tokyo_Tower_and_around_Skyscrapers.jpg\" />", 
+                "<div>海外旅行中はどこに行くにしろ、パスポートを持って歩かなければならない。</div>ビ-ルにしろ、日本酒にしろ飲んだら運転できない。<div>どんな人間にしろ長所はあるものだ。</div>", 
+                "106"
             ], 
             "flags": 0, 
             "guid": "A2j%@1Z<6x", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3677,24 +3792,25 @@
             "fields": [
                 "113", 
                 "<div>~にすぎない</div>", 
+                "Is used when you want to explain that something is \"only ~\" as in \"合格率は８％にすぎない\". It is also often used when you think that something does not have much value.", 
+                "[動-辞書形・た形 / 名]＋にすぎない", 
+                "この高校は2年前に男女共学になったが、男子学生はまだ10人<b>にすぎない</b>。", 
+                "", 
+                "", 
+                "「ただ～だけだ」と説明したい時に使われる。あまり価値がないと思っているときにもよく使われる。", 
+                "", 
+                "", 
                 "Merely~ ; Only~ ; Just~ ; Be (do) nothing but~", 
-                "[動-普通形；な形-である；名 / 名-である]＋にすぎない", 
+                "<img src=\"10678404-large.jpg\" />", 
                 "わたしは警官としてしなければならないことをしたにすぎません。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "101"
             ], 
             "flags": 0, 
             "guid": "n~]k<J)<Le", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3702,25 +3818,26 @@
             "data": "", 
             "fields": [
                 "114", 
-                "<div>~にそ沿い / ~に沿う / ~に沿った /　~に沿って</div>", 
+                "<div>~に 沿[そ]い / ~に 沿[そ]う / ~に 沿[そ]った /　~に 沿[そ]って</div>", 
+                "Is used to mean \"along\", \"in accordance with\" or \"as\".", 
+                "[名]＋に沿って<div>[名]＋に沿う・に沿った＋[名]</div>", 
+                "二人は夕暮れの道を川<b>に沿って</b>歩き続けた。", 
+                "", 
+                "「マニュアル・方針・案内・道順」などの言葉と一緒に使われる。<div>「希望・要望・意向・期待＋に沿うよう」などの言い方もある。</div>", 
+                "「～の通りに」「～に合わせて」という意味で使われる。", 
+                "", 
+                "", 
                 "In accordance with~", 
-                "[名]＋に沿って", 
+                "<img src=\"walk-down-malacca-river.jpg\" />", 
                 "決まった方針に沿って、新しい計画を立てましょう。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "108"
             ], 
             "flags": 0, 
             "guid": "uTlF4QFwn?", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3839,7 +3956,7 @@
                 "<div>~につき</div>", 
                 "This is used to state a reason in an announcement and the like.", 
                 "[名]＋につき", 
-                "雨天につき、試合は延期いたします。", 
+                "雨天<b>につき</b>、試合は延期いたします。", 
                 "", 
                 "Slightly strong saying", 
                 "お知らせなどで理由を言う時に使われる。", 
@@ -3864,50 +3981,25 @@
             "fields": [
                 "120.1", 
                 "<div>~につけ / ~につけて(は) / ~についても</div>", 
-                "<div>whenever~</div>", 
+                "Use it when you want to say \"(I always think・・・) when I see or hear something\".&nbsp;", 
                 "[動-辞書形]＋につけ", 
-                "家族の写真を見るにつけ、会いたくてたまらなくなる。", 
+                "電車の中で走り回る子供たちを見る<b>につけ</b>、家庭でしっかりしつけをしろと言いたくなる。", 
+                "「暑いにつけ寒いにつけ」のような慣用表現で「どんな時も」という気持ちを表すこともある。<div>As in \"暑いにつけ寒いにつけ\", you can also use it as an idiomatic expression to express a feeling of \"whatever\".</div>", 
                 "", 
-                "At the end of the sentence, a verb showing one’s feeling will come　「~と思う」「という気持ちになる」", 
-                "", 
+                "「何かを見たり聞いたりするたびに（いつも・・・と思う）と言いたい時に使う。", 
                 "<div>何かにつけて</div><div>何事につけても</div><div>それにつけても</div>", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "At the end of the sentence, a verb showing one’s feeling will come　「~と思う」「という気持ちになる」", 
+                "whenever~", 
+                "<img src=\"children-playing-tag.jpg\" />", 
+                "家族の写真を見るにつけ、会いたくてたまらなくなる。", 
+                "94"
             ], 
             "flags": 0, 
             "guid": "qiT~>-+_DK", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "120.2", 
-                "<div>~につけ / ~につけて(は) / ~についても</div>", 
-                "Whether~or~", 
-                "[動-辞書形；い形-い；名]＋につけ＋[動-辞書形；い形-い；名]＋につけ", 
-                "先輩の活躍を見るにつけ聞くにつけ、心強くなる。", 
-                "", 
-                "Contrasting words come before 「~につけ」", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "FV`v+z1j![", 
-            "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
-            "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3916,24 +4008,25 @@
             "fields": [
                 "121", 
                 "<div>~につれ / ~につれて</div>", 
+                "When you want to say \"something else changes along with a change in ~\".", 
+                "[動-辞書形・名]＋につれて・につれ", 
+                "留学生活が長くなる<b>につれて</b>、国のことを思い出すことが少なくなったような気がする。", 
+                "「~とともに」；「~にしたがって」", 
+                "", 
+                "「～」と一緒に変化することを表す。", 
+                "", 
+                "", 
                 "As~ ; With~ (when one the changes so does the other)", 
-                "[動--辞書形；名]＋にしたがって", 
+                "<img src=\"20170905153911student-studyabroad-2_thumb.jpg\" />", 
                 "品質がよくなるにつれて、値段が高くなる。", 
-                "「~とともに」のＣの意味；「~にしたがって」", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "65"
             ], 
             "flags": 0, 
             "guid": "I{|lY,3B!-", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -3994,25 +4087,26 @@
             "data": "", 
             "fields": [
                 "123.2", 
-                "<div>~にともな伴い / ~に伴う / ~に伴って</div>", 
+                "<div>~に 伴[ともな]い / ~に 伴[ともな]う / ~に 伴[ともな]って</div>", 
+                "As in \"道路工事に伴う通行止め\", use it when the focus of the sentence (road construction) simultaneously produces a concurrent result (a closed road). You can also use it to express a change.", 
+                "[名]＋に伴って・に伴い<div>[名]＋に伴う＋[名]</div>", 
+                "本州移転<b>に伴って</b>、最新のコンピューターシステムが導入されることになった。", 
+                "", 
+                "", 
+                "中心になることと同時に、他の事も一緒に起きる時に使う。変化を表す時にも使う。", 
+                "", 
+                "", 
                 "With~ (happen at the same time)", 
-                "[名]＋に伴って", 
+                "<img src=\"16b7618f03db2d3f60692b4e06722d36.jpg\" />", 
                 "地震に伴って、火災が発生することが多い。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "33"
             ], 
             "flags": 0, 
             "guid": "C%8ku5DHXg", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4020,25 +4114,26 @@
             "data": "", 
             "fields": [
                 "124", 
-                "<div>~にはん反し / ~に反した / ~に反して / ~に反する</div>", 
+                "<div>~に 反[はん]し/ ~に 反[はん]した / ~に 反[はん]して / ~に 反[はん]する</div>", 
+                "Use this when you want to say \"the result or situation has become opposite of what was predicted or expected\".", 
+                "[名]＋に反して・に反し<div>[名]＋に反する・に反した＋[名]</div>", 
+                "今回の経済政策は国民の期待<b>に反して</b>、まったく効果がなかった。", 
+                "", 
+                "", 
+                "「予想したことや期待したことと反対の結果や状態になった」と言いたくない時にも使う。", 
+                "", 
+                "", 
                 "Against~ ; Contrary to~", 
-                "[名]＋に反して", 
-                "<div>神に意向に反して、人間は自然を破壊している。</div>", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"BK-453213370X_3L.jpg\" />", 
+                "神に意向に反して、人間は自然を破壊している。", 
+                "67"
             ], 
             "flags": 0, 
             "guid": "N7PK?G$[le", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4047,24 +4142,25 @@
             "fields": [
                 "125", 
                 "<div>~にほかならない</div>", 
+                "States that something \"is nothing other than ~\". It's used when you want to strongly say \"~ is the biggest reason / reason / important / a problem\".", 
+                "[名]＋にほかならない", 
+                "今回のプロジェクトの成功は、チームワークの勝利<b>にほかなりません</b>。", 
+                "", 
+                "", 
+                "「～以外の他の物ではない」ことを表す。「一番の理由・大切なこと・問題になることは～だ」と強く言いたいときに使われる。", 
+                "", 
+                "理由を表す「から・ため」にもつて、原因・理由・根拠を強調する言い方になる。<div>You can also say it with \"から・ため\", wich emphasizes a cause, reason or basis.</div>", 
                 "There is no doubt that~", 
-                "<div>[普通形]＋にほかならない</div>", 
+                "<img src=\"paste-20173461389313.jpg\" />", 
                 "この手紙は私の正直な気持ちを申し上げたにほかなりません。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "[な形；名]don't use [だ]. [~である]can be used. To show a reason sometimes [から]is added", 
-                "", 
-                "", 
-                "", 
-                ""
+                "100"
             ], 
             "flags": 0, 
             "guid": "mT7t{zXMY+", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4073,24 +4169,25 @@
             "fields": [
                 "126", 
                 "<div>~にもかかわらず</div>", 
-                "However~ ; Though~", 
-                "<div>[普通形]＋にもかかわらず</div>", 
-                "彼は熱があるにもかかわらず、サッカ-の試合に出場した。", 
+                "Means \"although / despite ~\". Use it when you mean that something is actually different form what one would expect from the situation.", 
+                "[動-て形-いる・た形 / い形 / 名]＋にもかかわらず<div>[な形 / 名]＋である＋にもかかわらず</div>", 
+                "彼は熱がある<b>にもかかわらず</b>、サッカーの試合に出場した。", 
                 "", 
                 "", 
-                "", 
+                "「～なのに」という意味で、その状態から予想することと実際が違うという意味で使う。", 
                 "", 
                 "[な形；名]don't use [だ]。[~である]can be used.", 
-                "", 
-                "", 
-                "", 
-                ""
+                "However~ ; Though~", 
+                "<img src=\"184451368.jpg\" />", 
+                "彼の努力にもかかわらず、業績はよくならなかった。", 
+                "21"
             ], 
             "flags": 0, 
             "guid": "jUQjh.sxd6", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4098,25 +4195,26 @@
             "data": "", 
             "fields": [
                 "127", 
-                "<div>~にもと基づいて / ~に基づいた / ~に基づき / ~に基づく</div>", 
-                "On the basis of~", 
-                "[名]＋に基づいて", 
-                "調査した資料に基づいて、レポ-トを書かなければならない。", 
+                "<div>~に 基[もと]づいて / ~に 基[もと]づいた / ~に 基[もと]づき / ~に 基[もと]づく</div>", 
+                "Use this when you mention something which was used as a basis or reference.", 
+                "[名]＋に＋基づいて・基づき<div>[名]＋に＋基づく・基づいた＋[名]</div><div>[名]＋を＋基に・基して</div>", 
+                "集めた資料<b>に基づいて</b>、論文を書いた。", 
                 "「~をもとに」", 
                 "", 
+                "基準や参考にしたものを言う時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "On the basis of~", 
+                "<img src=\"paste-27925877358593.jpg\" />", 
+                "調査した資料に基づいて、レポ-トを書かなければならない。<div>ファンの人気投票をもとに審査し、今年の歌のベストテンが決まります。</div>", 
+                "138"
             ], 
             "flags": 0, 
             "guid": "h9Ki@?]YlW", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4179,24 +4277,25 @@
             "fields": [
                 "130", 
                 "<div>~にわたった / ~にわたって / ~にわたり / ~にわたる</div>", 
+                "Use this to mean throughout a long length of time or wide areas as in \"1週間にわたって雨が降り続いた\" and \"高速道路は50キロにわたって渋滞している\".", 
+                "[名]＋にわたって・にわたり<div>[名]＋にわたる・にわたった＋[名]</div>", 
+                "台風で電線が切れ、この町は全域<b>にわたって</b>停電した。", 
+                "", 
+                "", 
+                "時間や場所の範囲全部でという意味で使う。", 
+                "", 
+                "", 
                 "Ranging from~ ; Covering~ ; Lasting~ ; Extending over~", 
-                "[名]＋にわたって", 
+                "<img src=\"1527761151.jpg\" />", 
                 "チンさんは病気のため、２ヶ月にわたって学校を休んだ。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "31"
             ], 
             "flags": 0, 
             "guid": "LAEMD;mG]M", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4259,24 +4358,25 @@
             "fields": [
                 "133", 
                 "<div>~のみならず</div>", 
+                "Same meaning as [～だけでなく].", 
+                "[動/い形/名・の普通形-○]＋のみならず<div>[な形・名]＋である＋のみならず</div>", 
+                "現在、日本のコンビニは若者<b>のみならず</b>、あらゆる世代の人々に様々な目的で利用されている。", 
+                "", 
+                "", 
+                "「～だけでなく」と同じように使う。", 
+                "", 
+                "[な形；名]don't use [だ]. [~である]can be used.<div>「ただ～のみならず」「ひとり～のみならず」can be used.</div>", 
                 "Not only~ but also ; Besides~ ; Moreover~", 
-                "[普通形]＋のみならず", 
+                "<img src=\"CStore_Web.jpg\" />", 
                 "このパソコンは性能が優れているのみならず、操作も簡単だ。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "[な形；名]don't use [だ]. [~である]can be used.", 
-                "", 
-                "", 
-                "", 
-                ""
+                "63"
             ], 
             "flags": 0, 
             "guid": "d3aistU)$1", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4285,24 +4385,25 @@
             "fields": [
                 "134", 
                 "<div>~のもとで / ~のもとに</div>", 
-                "Owing to~", 
+                "When you want to say that something is \"under someone with some great influence\" as in \"教授のもと\", or when you want to say that something is \"under certain conditions or a situation\" as in \"協力のもと\"", 
                 "[名]＋のもとで", 
-                "鈴木教授のご指導のもとで、卒業論文を完成させた。", 
+                "鈴木教授のご指導<b>のもとで</b>、卒業論文を完成させた。", 
                 "", 
                 "", 
+                "「何か大きい影響力のある者の下で」という時や、「その条件や状況の中で」と言いたい時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Owing to~", 
+                "<img src=\"ts_ronbun-eyecatch.jpg\" />", 
+                "最近は明るい太陽のもとで、元気に遊び子供が少なくなった。", 
+                "11"
             ], 
             "flags": 0, 
             "guid": "AGWc4ALpw~", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4338,24 +4439,25 @@
             "fields": [
                 "136", 
                 "<div>~ばかりに</div>", 
+                "When you want to say (\"It's unfortunate that things turned out badly) just because of ~\"", 
+                "[名詞修飾型]＋ばかりに<div>[な形 / 名]＋である＋ばかりに</div>", 
+                "本当のことを言った<b>ばかりに</b>、彼を怒らせてしまった。", 
+                "", 
+                "", 
+                "「～だけは原因で(悪い結果になってしまって残念だ)」と言いたい時に使う。", 
+                "", 
+                "[名-の] uses [名-な]", 
                 "Because of~ ; On account of~ (shows regret over the cause of some bad result)", 
-                "[動・い形・な形・名]の名詞修飾型＋ばかりに", 
+                "<img src=\"paste-12073153069057.jpg\" />", 
                 "うそをついたばかりに恋人に嫌われてしまう。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "[名-の] uses [名-である] ; な形-である is sometimes used", 
-                "", 
-                "", 
-                "", 
-                ""
+                "48"
             ], 
             "flags": 0, 
             "guid": "ertvwcjt;g", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4364,24 +4466,25 @@
             "fields": [
                 "137", 
                 "<div>(~を)はじめ / (~を)はじめすると</div>", 
+                "When you want to say \"not just ~, but many others\" by giving a typical example.", 
+                "[名]＋をはじめ<div>[名]＋をはじめとして</div><div>[名]＋をはじめとする＋[名]</div>", 
+                "<div>上野動物園にはパンダを<b>はじめ</b>、子供達に人気がある動物がたくさんいます。</div>", 
+                "", 
+                "", 
+                "代表的な例を出して、「～だけでなく他にもたくさん」と言いたい時に使う。", 
+                "", 
+                "", 
                 "Not only~ but also~ ; ~among other things", 
-                "[名]＋をはじめ", 
-                "上野動物園にはパンダをはじめ、子供達に人気がある動物がたくさんいます", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"図1.jpg\" />", 
+                "日本には富士山をはじめ、たくさんの美しい山がある。", 
+                "10"
             ], 
             "flags": 0, 
             "guid": "f:K$}B9PA<", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4390,24 +4493,25 @@
             "fields": [
                 "138", 
                 "<div>~はともかく(として)</div>", 
+                "When you want to say that you are not thinking about \"~\" now, but about other things instead.", 
+                "[名]＋はともなく (として)", 
+                "この洋服は、デザイン<b>はともなく</b>、色がよくない。", 
+                "「～かどうか」「疑問詞+か」「動詞+か」と一緒に使うこともある。", 
+                "", 
+                "「～」については今は考えないで、他の点について言いたい時に使う。", 
+                "", 
+                "", 
                 "Irregardless of~", 
-                "[名]＋はともなく", 
-                "この洋服は、デザインはともなく、色がよくない。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"CHINAFASHION032409.jpg\" />", 
+                "今の仕事は、給料はともかく、やりがいがあるいい仕事だと思っています。", 
+                "26"
             ], 
             "flags": 0, 
             "guid": "ng%M>,fLF6", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4443,24 +4547,25 @@
             "fields": [
                 "140", 
                 "<div>~はもちろん / ~はもとより</div>", 
-                "Even~ ; Of course~", 
-                "[名]＋はもちろん", 
-                "私が生まれた村は、電車はもちろん、バスも通っていない。", 
+                "When you want to explain in a speech, presentation or the like that \"~\" is obvious, or that it is not only \"~\" but also something more.", 
+                "[名]＋はもちろん<div>[名]＋はもとより</div>", 
+                "この温泉は、日本人は<b>もとより</b>、外国人にも大変人気があります。", 
                 "", 
                 "「~はもとより」is formal language", 
+                "スピーチ・プレゼンテーションなどで「～はもちろん、～だけでなくそのほかにも」と説明したい時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Even~ ; Of course~", 
+                "<img src=\"2013012100020_1.jpg\" />", 
+                "私が生まれた村は、電車はもちろん、バスも通っていない。", 
+                "12"
             ], 
             "flags": 0, 
             "guid": "Bs8w.*pL6h", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4468,25 +4573,26 @@
             "data": "", 
             "fields": [
                 "141", 
-                "<div>~はんめん反面 / ~はんめん半面</div>", 
+                "<div>~ 反面[はんめん] / ~ 半面[はんめん]</div>", 
+                "Use this when you want to explain that there are two aspects or perspectives pertaining to something.", 
+                "[動/い形/な形]・の名詞修飾型＋反面・半面<div>[な形 / 名]＋である＋反面・半面</div>", 
+                "来日前は留学に期待する<b>反面</b>、不安も大きかった。", 
+                "", 
+                "[~である]can be used.", 
+                "あることに関して、二つの反対の面や視点があることを説明する時に使う。", 
+                "", 
+                "", 
                 "On one side~ ; On the other side~", 
-                "[動・い形・な形・名]の名詞修飾型＋反面", 
+                "<img src=\"iStock-636831102.jpg\" />", 
                 "この薬はよく効く反面、副作用がある。", 
-                "", 
-                "＜[な形；名]don't use [だ]. [~である]can be used.＞", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "69"
             ], 
             "flags": 0, 
             "guid": "m*yZEKCp&t", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4656,24 +4762,25 @@
             "fields": [
                 "148", 
                 "<div>~まい / ~まいか</div>", 
-                "A.&nbsp;Probably not~<div>B.&nbsp;Will not~</div>", 
+                "When you want to say that judging from a situation or the like, \"there's very little possibility of ~\".", 
                 "[動-辞書形]＋まい", 
-                "A.&nbsp;あの小さな地震が続いている。大きい地震が起こるのではあるまいか。<div>B.&nbsp;こんなまずいレストランへは二度と来るまい。</div>", 
+                "世界経済は状況から見て、すぐに好転することはある<b>まい</b>。我が社も早急に対策を考えなければならない。", 
+                "「絶対～するのはやめよう」という強く意志を表すこともある。<div>You can also use it to express a strong determination to \"absolutley stop doing ~\".</div>", 
+                "", 
+                "状況などから判断して、「～の可能性は非常に少ないだろう」と言いたい時に使われる。", 
                 "", 
                 "Use 「~まいと思っているらしい / ~まいと思っているようだ」when subject is Third Person.", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Probably not~;&nbsp;Will not~", 
+                "<img src=\"bad-economy.jpg\" />", 
+                "あの小さな地震が続いている。大きい地震が起こるのではあるまいか。<div>こんなまずいレストランへは二度と来るまい。</div>", 
+                "93"
             ], 
             "flags": 0, 
             "guid": "<)mvO1M=L", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4710,7 +4817,7 @@
                 "<div>~ 向[む]けだ / ~ 向[む]けに / ~ 向[む]けの</div>", 
                 "When you express that something is for a specific group or person.", 
                 "[名]＋向け", 
-                "ここにある軽量のクリスマスカ-ドは、みんな海外<b>向けだ</b>。", 
+                "ここにある軽量のクリスマスカードは、みんな海外<b>向けだ</b>。", 
                 "", 
                 "", 
                 "ある特定の人やグループのためのものだということを表す時に使う。", 
@@ -4735,24 +4842,25 @@
             "fields": [
                 "151", 
                 "<div>~もかまわず</div>", 
-                "Regardless of~", 
+                "Use it when you want to say \"do ・・・ while ignoring that this is something one would normally be concerned about\". It is often used to citicize.", 
                 "[名]＋もかまわず", 
-                "人の迷惑もかまわらず、電車の中で携帯電話で話している人がいる。", 
+                "住民の迷惑<b>もかまわず</b>、夜中にバイクで走り回るのはやめてほしい。", 
                 "", 
                 "", 
-                "", 
+                "「普通は気にしたほうがいいことを、無視して・・・する」と言いたい時に使う。批判的に使うことが多い。", 
                 "ところかまわず: &nbsp;indiscriminately; no matter where", 
                 "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Regardless of~", 
+                "<img src=\"paste-27453430956033.jpg\" />", 
+                "人の迷惑もかまわらず、電車の中で携帯電話で話している人がいる。", 
+                "127"
             ], 
             "flags": 0, 
             "guid": "vqBWOq+H*Q", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4761,24 +4869,25 @@
             "fields": [
                 "152", 
                 "<div>~も~なら~も / ~も~ば~も</div>", 
+                "This is used with positive words to say there are many good points about something, or with negative words to say there are many bad points about something. It can also express variety as in \"家で食べる日もあれば外で食べる日もある\".", 
+                "[名]＋も＋[動-ば・い形-ければ・な形-なら]＋[名]＋も", 
+                "今度できたスーパーは品数<b>も</b>多<b>ければ</b>値段<b>も</b>安いので、大人気だ。", 
+                "", 
+                "", 
+                "プラスイメージの言葉を重ねて「よい点が多くある」と言う時と、マイナスイメージの言葉を重ねて、「悪い点が多くある」と言うときに使われる。「いろいろある」という意味を表すこともある。", 
+                "", 
+                "", 
                 "Neither~or~ ; Both~and~", 
-                "[名]＋も＋[動-ば；い形-ければ；な形-なら]＋[名]＋も", 
+                "<img src=\"paste-37911676321793.jpg\" />", 
                 "父はお酒も飲めばタバコも吸うので、健康が心配だ。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "130"
             ], 
             "flags": 0, 
             "guid": "PoPe8WLK<o", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4786,9 +4895,9 @@
             "data": "", 
             "fields": [
                 "153", 
-                "<div>~もの</div>", 
+                "<div>~もので</div>", 
                 "When giving a polite explanation to provide your reason for the current situation.", 
-                "[名詞修飾型 (名-&gt;な) ]＋もので・ものですから", 
+                "[名詞修飾型・名-&gt;な]＋もので・ものですから", 
                 "「一人で行ける。」「うん、大丈夫、地図を持っている<b>もの</b>。」", 
                 "", 
                 "Used in conversations by women and children. &nbsp;「~もん」is more informal", 
@@ -4814,24 +4923,25 @@
             "fields": [
                 "154", 
                 "<div>~もの(です)か</div>", 
-                "By no means~ ; Not~at all", 
-                "[動・い形・な形・名]の名詞修飾型＋ものか", 
-                "あの人が人の忠告なんか聞くものですか。", 
+                "When you want to strongly state, to yourself or someone else, a feeling you have that \"it's definetly not ~\". You can also use it to refute what another person has said, as in \"it's absolutely not ~; ~ is wrong.\" In colloquial speech use \"～もんか\" or \"～もんですか\".", 
+                "[名詞修飾型]＋ものか/もんか・ものですか/もんですか", 
+                "こんなサービスの悪い店には二度と来る<b>もんか</b>。", 
                 "When spoken, or between friends 「~もんか」or「~もんですか」is used", 
                 "", 
-                "", 
+                "独り言なので、「決して～しない」と自分の気持ちを強く言いたい時に使う。相手の言ったことを、「絶対～ではない・～は違う」と否定する時にも使う。", 
                 "", 
                 "[名-の] uses [名-な]", 
-                "", 
-                "", 
-                "", 
-                ""
+                "By no means~ ; Not~at all", 
+                "<img src=\"restaurant-frustration2-bad-service-390x220.jpg\" />", 
+                "あの人が人の忠告なんか聞くものですか。", 
+                "51"
             ], 
             "flags": 0, 
             "guid": "i)<Ui_0:mU", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4840,24 +4950,25 @@
             "fields": [
                 "155", 
                 "<div>~ものがある</div>", 
+                "Use it when you want to say something \"seems ~\". This expression is used when something makes you think in a certain way, but you cannot say exactly what it is.", 
+                "[動/い形/な形]・の名詞修飾型＋ものがある", 
+                "世界中で大ヒットした歌には、世代を超えて人々の心に響く<b>ものがある。</b>", 
+                "", 
+                "", 
+                "「～感じがする」と言いたい時に使う。「具体的に何とは言えないが、そう思われる要素がある」と言う時にも使われる。", 
+                "", 
+                "現在形だけ", 
                 "Feel like~", 
-                "[動・い形・な形・名]の名詞修飾型＋ものがある", 
+                "<img src=\"10d318fc54ea34a091477d5f55693620.png\" />", 
                 "この絵には人を引きつけるものがある。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "92"
             ], 
             "flags": 0, 
             "guid": "nZ,W9RA@9Z", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4918,24 +5029,25 @@
             "fields": [
                 "156.3", 
                 "<div>~ものだ / ~ものではない</div>", 
+                "It is often used to express nostalgic memories form the past and one's feelings. You can also use this when you want to state a strongly held opinion.", 
+                "[動/い形-い/な形-な]・の普通形＋ものだ", 
+                "昔はよく友達と近くの川で泳いだ<b>ものだ。</b>", 
+                "", 
+                "", 
+                "過去のことを思い出して懐かしいと思う気持ちを表す。心に強く思ったことを言いたいときにも使う。", 
+                "", 
+                "", 
                 "remember a past happening or occurrence", 
-                "[動・い形・な形]の普通形の過去＋ものだ", 
+                "<img src=\"paste-10857677324289.jpg\" />", 
                 "子供のころ、いたずらをして、よく父に叱られたものだ。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "132"
             ], 
             "flags": 0, 
             "guid": "rg!piH/3[D", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4970,24 +5082,25 @@
             "fields": [
                 "158", 
                 "<div>~ものなら</div>", 
+                "Use this when you very much want something that you actually think is impossible.", 
+                "[動-辞書形]＋ものなら・もんなら", 
+                "子供のころから星好きだったので、行ける<b>ものなら</b>宇宙旅行に行ってみたいと思っています。", 
+                "", 
+                "可能の意味を待つ動詞の辞書形も使われる。<div>Dictionary forms of verbs that indicate possibility are also used.</div>", 
+                "現実には無理だと思っていることを強く希望する時に使う。", 
+                "", 
+                "<div>会話では「もんなら」になる。</div>It becomes \"もんなら\" in casual conversation.", 
                 "If~(wish for something unattainable ; tell someone it is impossible)", 
-                "[動-辞書形]＋ものなら", 
+                "<img src=\"paste-14663018348545.jpg\" />", 
                 "父の病気が治るものなら、どんな高価な薬でも手に入れたい。", 
-                "Often used together with a \"be possible\" meaning verb. 「もんなら」is used in conversations.", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "122"
             ], 
             "flags": 0, 
             "guid": "on,>KUu@gV", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -4996,24 +5109,25 @@
             "fields": [
                 "159", 
                 "<div>~ものの</div>", 
+                "When you really want to say you feel that \"even tough the fact is ~ (I wanted it and brought it),\" as in \"欲しくて買ったものの\". The particle 「は」 is often used to emphasize the fact.", 
+                "[動/い形/な形]・の名詞修飾型＋ものの<div>[な形 / 名]＋で(は)ある＋ものの</div>", 
+                "水泳教室に通ってはいる<b>ものの</b>、いまだに25メートルしか泳げない。", 
+                "", 
+                "「~とはいうものの」is often used. &nbsp;Especially with nouns [名＋とはいうものの]", 
+                "「～は事実だけれども」という気持ちを強く言いたい時に使う。事実を強調するために、助詞「は」を使うことが多い。", 
+                "", 
+                "「～ている・～てみる」などは「～て<u>は</u>いる」のように「は」が入ることが多い。", 
                 "Though~", 
-                "[動・い形・な形]の名詞修飾型＋ものの", 
+                "<img src=\"carousel.jpg\" />", 
                 "免許は取ったものの、車が買えない。", 
-                "", 
-                "~とはいうものの」is often used. &nbsp;Especially with nouns [名＋とはいうものの]", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "39"
             ], 
             "flags": 0, 
             "guid": "z[M,gQjjx-", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -5022,24 +5136,25 @@
             "fields": [
                 "160", 
                 "<div>~やら~やら</div>", 
+                "\"AやらBやら\" has the same meaning as \"AやBなど\" and \"AたりBたり\" by giving examples and expresses a sense of adversity or suprise for various reasons. It is also used to express that you are not quite sure which is the reason.", 
+                "[動-辞書形・い形-い・名]＋やら＋[動-辞書形・い形-い・名]＋やら", 
+                "部屋代<b>やら</b>、交通費<b>やら</b>、日本はとにかくお金がかかる。", 
+                "", 
+                "", 
+                "「AやBなど」「AたりBたり」と同じ意味で、例をあげて、いろいろあって大変だったり驚いたりした気持ちを表す。どちらかはっきりわからないことを表す場合もある。", 
+                "", 
+                "", 
                 "~And~among other things (etc)", 
-                "[動-辞書形；い形-い；名]＋やら＋[動-辞書形；い形-い；名]＋やら", 
+                "<img src=\"enhanced-buzz-32397-1370986531-1.jpg\" />", 
                 "帰国前は飛行機の予約をするやらおみやげを買うやらで忙しい。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "98"
             ], 
             "flags": 0, 
             "guid": "A-JQJ;sl,D", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -5048,24 +5163,25 @@
             "fields": [
                 "161", 
                 "<div>~ようがない / ~ようもない</div>", 
-                "No way to~", 
+                "As in \"私も知らないから教えようがない\", use it when you want to say \"because of (I don't know either), I can't ~ (tell you).\" When you say it as \"どうしょうもない\", it means there is nothing you can do.", 
                 "[動-ます形]＋ようがない", 
+                "出張の予定だったが、大雪で飛行機が欠航したしまったので行き<b>ようがない</b>。", 
+                "", 
+                "「どうしょうもない」という言い方は、できることが何もないという意味。", 
+                "「理由があって～をすることができない」と言いたい時に使う。", 
+                "", 
+                "", 
+                "No way to~", 
+                "<img src=\"plane-snow-684987.jpg\" />", 
                 "木村さんは今どこにいるのか分からないので、連絡しようがない。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "44"
             ], 
             "flags": 0, 
             "guid": "sy:]yYKFF:", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -5152,26 +5268,27 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "164", 
+                "164.1", 
                 "<div>~わけだ</div>", 
-                "A.&nbsp;state a reason why something is<div>B.&nbsp;It means that</div>", 
-                "[動・い形・な形]の名詞修飾型＋わけだ", 
-                "A.&nbsp;ジョンさんは、お母さんが日本人ですから、日本語が上手なわけです。<div>B.&nbsp;５パ-セントの値引きというと、１万円の物は9,500円になるわけですね。</div>", 
+                "As in \"開かないわけだ、鍵がかかっているよ\", use this when you come to understand that something is the case (it won't open) because of a certain reason (it's locked), as if to say \"ah ha\" or \"now I see\". When you don't know the reason, use \"というわけか\".", 
+                "[名詞修飾型]＋わけだ・というわけだ</div>", 
+                "A: このチョコ、1粒1,000円もするんだよ。<div>B: え！本当？じゃあ、おいしい<b>わけ</b>よね。</div>", 
                 "", 
                 "", 
+                "思っていたことの理由がわかって「やっぱり」「なるほど」と納得した時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "state a reason why something is", 
+                "<img src=\"paste-35158602285057.jpg\" />", 
+                "ジョンさんは、お母さんが日本人ですから、日本語が上手なわけです。", 
+                "82"
             ], 
             "flags": 0, 
             "guid": "u8|QgSfGkg", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -5180,24 +5297,25 @@
             "fields": [
                 "165", 
                 "<div>~わけではない / ~わけでもない</div>", 
+                "When you make a denial as in \"that's not the situation; it doesn't feel like that; not for that reason.\" Use it when you refute another person's idea or a typical judgament as in \"病気が治ったわけではない\". You can also use it when you do not want to say that something is 100% for sure, as in \"嫌いなわけではない\".", 
+                "[名詞修飾型]＋わけではない・わけじゃない", 
+                "生活に困っている<b>わけではない</b>が、貯金する余裕はない。", 
+                "", 
+                "", 
+                "「～の状況や気持ち・理由ではない」と否定する時に使う。相手の考えや一般的な判断を否定する時に使う。100％そうだと言いたくない時にも使う。", 
+                "", 
+                "", 
                 "It doesn’t mean that~", 
-                "[動・い形・な形]の名詞修飾型＋わけではない", 
-                "生活に困っているわけではないが、貯金する余裕はない。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"Reckless-Spending-e1480501169757.jpg\" />", 
+                "退院しても、病気が完全に治ったわけではありませんから、無理をしないでください。", 
+                "19"
             ], 
             "flags": 0, 
             "guid": "d!lNexLzit", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -5205,25 +5323,26 @@
             "data": "", 
             "fields": [
                 "166.1", 
-                "<div>~わけにはいかない / ~わけにもいかない</div>", 
-                "Mustn’t&nbsp;", 
+                "<div>~わけにはいかない<br>~わけにもいかない</div>", 
+                "When you want to say \"thare's a reason I can't\" as in \"休むわけにはいかない\".", 
                 "[動-辞書形]＋わけにはいかない", 
+                "A: Bさん、顔色悪いよ。今日は無理しないで早退したら？<div>B: でも、午後から大事な会議があるから帰る<b>わけにはいかなくて</b>・・・</div>", 
+                "", 
+                "", 
+                "「理由があってできない」と言いたい時に使う。", 
+                "", 
+                "", 
+                "Mustn’t&nbsp;", 
+                "<img src=\"mlJxdgw.jpg\" />", 
                 "絶対に他の人に言わないと約束したので、話すわけにはいかない。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "57"
             ], 
             "flags": 0, 
             "guid": "IKi/4R(7r+", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -5232,24 +5351,25 @@
             "fields": [
                 "166.2", 
                 "<div>~わけにはいかない / ~わけにもいかない</div>", 
+                "When you want to say \"I have to\" as in \"働かないわけにはいかない\".", 
+                "[動-ない形]＋ないわけにはいかない", 
+                "A: 今から飛行機の予定は無理ですよ。<div>B: そこをなんとか。取引先でシステムトラブルがあって、私は行かない<b>わけにはいかない</b>んですよ。</div>", 
+                "", 
+                "", 
+                "「しなければならない」と言いたい時に使う。", 
+                "", 
+                "", 
                 "Must~", 
-                "[動-ない形-ない]＋わけにはいかい", 
+                "<img src=\"123141-004-9B7F5072.jpg\" />", 
                 "明日試験があるので、勉強しないわけにはいかない。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "57"
             ], 
             "flags": 0, 
             "guid": "M;.3!vkffW", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -5284,24 +5404,25 @@
             "fields": [
                 "168", 
                 "<div>~をきっかけとして / ~をきっかけに(して)</div>", 
-                "Through~ ; By~ (something happens unexpectedly through a chance encounter)", 
+                "To express the factor or reason for why something happened that led to a new beginning or change.", 
                 "[名]＋をきっかけに", 
-                "留学をきっかけに、自分の国についていろいろ考えるようになった。", 
+                "留学を<b>きっかけに</b>、自分の国についていろいろ考えるようになった。", 
                 "", 
                 "", 
+                "何かが始まったり、変わったりしたときに、その原因・理由になった出来事を表す時に使う。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Through~ ; By~ (something happens unexpectedly through a chance encounter)", 
+                "<img src=\"45ecc1eb7862661abf1eecd4b202cc4f_s.jpg\" />", 
+                "日本のドラマをきっかけとして、日本文化に関心を持つようになった。", 
+                "17"
             ], 
             "flags": 0, 
             "guid": "l/8`,13stD", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -5309,25 +5430,26 @@
             "data": "", 
             "fields": [
                 "169", 
-                "<div>~をけいき契機として / ~を契機に(して)&nbsp;</div>", 
-                "Since~ (Because a thing happened, a big change has occurred)", 
+                "<div>~を 契機[けいき]として / ~を 契機[けいき]に(して)</div>", 
+                "To express the factor or reason for why something socially or historically important happened that led to a new beginning or change. It's often used in sentences with a positive meaning.", 
                 "[名]＋を契機に", 
-                "オイルショックを契機に新エネルギ-の研究が進められた。", 
+                "オイルショックを<b>契機に</b>新エネルギ-の研究が進められた。", 
                 "", 
                 "", 
+                "「きっかけ」と同じ意味・用法で社会的、歴史的に大きいことを言いたい時に使う。プラスの意味の文に使うことが多い。", 
                 "", 
                 "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "Since~ (Because a thing happened, a big change has occurred)", 
+                "<img src=\"paste-56487409876993.jpg\" />", 
+                "青木氏の社会就任を契機にして、我が社は大きく発展した。", 
+                "17"
             ], 
             "flags": 0, 
             "guid": "Dqm(Jo?&VA", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -5335,25 +5457,26 @@
             "data": "", 
             "fields": [
                 "170", 
-                "<div>~をこめて</div>", 
+                "<div>~を 込[こ]めて</div>", 
+                "Use it to mean \"do ・・・with a lot of love, thought or the like.", 
+                "[名]＋を込めて", 
+                "当店では一つ一つのお菓子を、心<b>を込めて</b>手作りしております。", 
+                "", 
+                "", 
+                "「愛情、思いなどの気持ちを入れて（・・・する）」という意味で使う。", 
+                "", 
+                "「心・愛・親しみ・祈り・恨み・怒り」などの言葉と一緒に使われる。", 
                 "Full of~ ; Loaded with~ &lt;put emotion into&gt;", 
-                "[名]＋をこめて", 
+                "<img src=\"paste-32706175959041.jpg\" />", 
                 "母は私のために心をこめて、せ-タ-を編んでくれた。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "129"
             ], 
             "flags": 0, 
             "guid": "r_ipCxefi,", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -5415,24 +5538,25 @@
             "fields": [
                 "173", 
                 "<div>~を~とした / ~を~として / ~を~とする</div>", 
+                "When you say \"do A as B; A is B\" as in \"地域交流を目的として\" and \"リーダーを中心に\". You can also use \"に\" in place of \"として\".", 
+                "[名]＋を＋[名]＋とした+[名]・とする・として/に", 
+                "チンさんを先生<b>として</b>、中国語の勉強会を開いた。", 
+                "", 
+                "Nouns that show aim, postion, role, type,etc. come before 「として」。例えば「目的・中心・対象・手本・前提」", 
+                "「AをBにする、AがBだ」と言う時に使う。", 
+                "", 
+                "", 
                 "As~", 
-                "[名]＋を＋[名]＋として", 
-                "チンさんを先生として、中国語の勉強会を開いた。", 
-                "", 
-                "Nouns that show aim, postion, role, type,etc. come before 「として」", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"20140801_003.jpg\" />", 
+                "「みどりの会」は環境保護活動を目的とする市民の組織です。", 
+                "16"
             ], 
             "flags": 0, 
             "guid": "bg_I3w?03&", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -5440,7 +5564,7 @@
             "data": "", 
             "fields": [
                 "174", 
-                "~を問[と]わず", 
+                "~を 問[と]わず", 
                 "This is used in an announcement, written introduction and the like to say \"anytime, anywhere, anyone\" and such.", 
                 "[名]＋を問わず", 
                 "留学生ならどなたでも国籍、年齢、性別<b>を問わず</b>申し込めます。", 
@@ -5466,78 +5590,27 @@
             "__type__": "Note", 
             "data": "", 
             "fields": [
-                "175", 
-                "<div>~をはじめ / ~をはじめすると</div>", 
-                "Not only~ but also~ ; ~among other things", 
-                "[名]＋をはじめ", 
-                "上野動物園にはパンダをはじめ、子供達に人気がある動物がたくさんいます。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "EZ7}*0:Q]~", 
-            "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
-            "tags": [
-                "JLPT.N2"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
                 "176", 
                 "<div>~をめぐって / ~をめぐる</div>", 
+                "Use it meaning \"about ~\", when you want to say that there is opposition, dispute, conflict, or opinions coming from various directions and positions about \"~\".", 
+                "[名]＋をめぐって<div>[名]＋をめぐる＋[名]</div>", 
+                "<div>遺産<b>をめぐって</b>、兄弟の争いが起こることを父は心配していた。</div>", 
+                "", 
+                "", 
+                "「～を話題として」という意味で、「～」について様々な立場、方向から意見を述べたり、争い・紛争・対立などが起きていると言いたいときに使う。", 
+                "", 
+                "", 
                 "Circulate~ ; around~", 
-                "[名]＋をめぐって", 
-                "<div>その法案の賛否をめぐって、活発な議論がかわされた。</div>", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
+                "<img src=\"paste-13816909791233.jpg\" />", 
+                "その法案の賛否をめぐって、活発な議論がかわされた。", 
+                "133"
             ], 
             "flags": 0, 
             "guid": "o{GsQlpta[", 
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
-                "JLPT.N2"
-            ]
-        }, 
-        {
-            "__type__": "Note", 
-            "data": "", 
-            "fields": [
-                "177", 
-                "<div>~をもとに / ~をもとにして</div>", 
-                "Based on~", 
-                "[名]＋をもとに", 
-                "ファンの人気投票をもとに審査し、今年の歌のベストテンが決まります。", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                "", 
-                ""
-            ], 
-            "flags": 0, 
-            "guid": "Jy^/v,3f[6", 
-            "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
-            "tags": [
-                "JLPT.N2"
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }, 
         {
@@ -6249,7 +6322,7 @@
                 "~たりして", 
                 "Perhaps or maybe", 
                 "[普通形の過去]＋りして", 
-                "もしかして寝て<b>たりして</b>。", 
+                "もしかして寝ていた<b>りして</b>。", 
                 "", 
                 "", 
                 "「～もしかしたら」という意味を表す。", 
@@ -6412,7 +6485,7 @@
                 "to express criticism of only doing ~ or of doing it too much because it causes a problem", 
                 "[動-て形 / 名]＋ばかり", 
                 "最近雨<b>ばかり</b>で、洗濯物が乾かなくて困っています。", 
-                "", 
+                "～一方", 
                 "", 
                 "～が多くて困る、～以外のことをしないから困ると批判的に言う時に使う。", 
                 "", 
@@ -6533,6 +6606,60 @@
             "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
             "tags": [
                 "JLPT.N2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "67.2", 
+                "~つつ / ~つつも", 
+                "As in \"タバコは体に悪いからやめようよと思いつつも、つい吸ってしまう\", it expresses the feeling that \"altougth ~ (I tought I should quit), something undesired actually happened (I smoked)\".", 
+                "[動-ます形]＋つつも", 
+                "チョコレートを食べたらにきびが増えると知り<b>つつも</b>、つい手が伸びてしまうんです。", 
+                "", 
+                "Not used in conversations.", 
+                "「〜だけれども、実際はよくないことをしてしまう」という気持ちを表す。", 
+                "", 
+                "", 
+                "~Though", 
+                "<img src=\"does-chocolate-give-pimples.jpg\" />", 
+                "悪いと知りつつ、うそをついてしました。", 
+                "112"
+            ], 
+            "flags": 0, 
+            "guid": "bGfI?Jv$t:", 
+            "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
+            "tags": [
+                "JLPT.N2", 
+                "TRY!N2"
+            ]
+        }, 
+        {
+            "__type__": "Note", 
+            "data": "", 
+            "fields": [
+                "164.2", 
+                "~わけだ", 
+                "Use this when you want to explain a reason or circumstances about something and say that it is a matter of course.", 
+                "[名詞修飾型]＋わけだ・というわけだ", 
+                "食生活の改善と適度な運動によって免疫力が高まり、病気にかかりにくくなる<b>わけです。</b>", 
+                "", 
+                "", 
+                "理由や事情を説明して「当然そうなる」と言いたいときに使う。", 
+                "", 
+                "", 
+                "It means that", 
+                "<img src=\"paste-20263655702529.jpg\" />", 
+                "５パ-セントの値引きというと、１万円の物は9,500円になるわけですね。", 
+                "134"
+            ], 
+            "flags": 0, 
+            "guid": "bi|3=1!|f=", 
+            "note_model_uuid": "082ef11e-8fca-11e8-8d10-8cdcd486f8fe", 
+            "tags": [
+                "JLPT.N2", 
+                "TRY!N2"
             ]
         }
     ]
